@@ -1,0 +1,1537 @@
+[
+    {
+        "type": "text",
+        "text": "Markupplatelseavtal avseende elektrisk starkstromsanlaggning ",
+        "text_level": 1,
+        "bbox": [
+            122,
+            99,
+            739,
+            115
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "imark (jordkabel) natstation ",
+        "bbox": [
+            131,
+            123,
+            485,
+            137
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/c5e18075917e6592ce9eab497864e74962b14ae0dee9e6a402219c3ae4b9544b.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Srskilening vidveneutaiviketotaru()prenaaelprisa \\*\\*Omerstningens totlsumaverstige e(3)procentavatueltprisaselp erhalls inimierstning totalt $1 3 9 5 k r$ i "
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=5>Belastad fastighet</td></tr><tr><td rowspan=1 colspan=3>Fastighet (fastighetsagarens)Orsbraten 1:4</td><td rowspan=3 colspan=2>Kontaktperson (namn, adress, telefon)AIm, ChristerODENAS ORSBRATEN 53544195 ALINGSASOriginalavtalet skickas till kontaktpersonen</td></tr><tr><td rowspan=1 colspan=1>KommunAlingsas</td><td rowspan=1 colspan=2>LänVastra Gotaland</td></tr><tr><td rowspan=1 colspan=3>Fastighetsagare (namn, personnummer/organisationsnummer)AIm,Christer19690305-5678Vid fler delagare se separat delagarbilaga</td></tr><tr><td rowspan=1 colspan=3>Förmansfastighet</td><td rowspan=1 colspan=2>Projektsinformation</td></tr><tr><td rowspan=1 colspan=3>Fastighet (ledningsagarens)Begonian 10</td><td rowspan=2 colspan=2>Projektnamn:            ORSBRATENProjektnummer (NIS):   270166Ledningslittera:          TT49-L493Transformator (nr):</td></tr><tr><td rowspan=1 colspan=2>KommunVanersborg</td><td rowspan=1 colspan=1>LänVastra Götaland</td></tr><tr><td rowspan=1 colspan=3>Ledningsagare (namn, organisationsnummer)Vattenfall EIdistribution AB, Org.nr 556417-0800</td><td rowspan=1 colspan=2>Ansvarig Projektledare: Ola Bolander</td></tr><tr><td rowspan=1 colspan=5>Ersättning</td></tr><tr><td rowspan=1 colspan=4>Total ersattning enligt bifogat varderingsprotokoll!:</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=3>Utanordning</td><td rowspan=1 colspan=1>Datum2020-00-16</td><td rowspan=1 colspan=1>Signatur</td></tr></table>",
+        "bbox": [
+            121,
+            133,
+            926,
+            530
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "S1 Upplatelsens omfattning ",
+        "text_level": 1,
+        "bbox": [
+            87,
+            558,
+            282,
+            570
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fastighetsgarenmedger ledningsgarenrataanlggachforal framtidbibehalla samtatt vibehovfornyaelektrisk starkströmsledning (markkabel) med en systemspanning av hogst $2 4 \\times 1$ jamte tillhorande anordningar sasom transformatorer, ledningen redovisas pa bifogad kartskiss och/eller blit utstakad pa marken, alt nedan benmnt ledningen. ",
+        "bbox": [
+            100,
+            570,
+            919,
+            614
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": ") Fastighetsagaren upplater för ledningen ett utrymme om $4 \\textrm { ‰}$ horisontell bredd i skogsmark (skogsgata), 1 m breddi övrig mark (schaktbredd) samt ${ \\boldsymbol { 0 } } \\times { \\boldsymbol { 0 } } ~ { \\mathsf { m } }$ för transformatorstation. ",
+        "bbox": [
+            92,
+            624,
+            919,
+            648
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Forledningensnlggnde,tillsy,undehl reparationchfrelsefrvidareilflleerforderligres. ",
+        "bbox": [
+            97,
+            656,
+            823,
+            670
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "c) Fastightane inaeenfrelesllisan bihinenileliofeAsteal anpassadetill tt rationellt underhall. Fallda tradoch falldvegetation forbli fastighetsagarens egendom. ",
+        "bbox": [
+            80,
+            678,
+            912,
+            713
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "d) Fastigete infaniililin， underhal,reparationchforyeleavid ledningsgareartdenmandaan skeutan vsentigolgenhet, aka fastighetsagaren givna anvisningar betraffande ratten att ta vag. ",
+        "bbox": [
+            78,
+            722,
+            915,
+            757
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\ S 2$ Föreskrifter ",
+        "text_level": 1,
+        "bbox": [
+            85,
+            766,
+            198,
+            778
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a) Ledningsagaren ska utova rattigheterna sa att egendomen inte betungas mer an nodvandigt. ",
+        "bbox": [
+            80,
+            778,
+            670,
+            790
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "b) Fastigheteintnaanninppfaennnningnoruplagelia ledningenilleenigviariunkllanetfreriteents.Enigvidiunktenfeaas tecknande gallande sakerhetsforeskriter far inte brannbar byggnadsdel eller upplag finnas narmare n $5 \\textrm { m }$ fran transformatorstation. Bygngiiaeinafast $_ { 3 } \\textrm { \\textmu m }$ franmakaetellefaneninaensevpplagll iandorellerkivnndsfr markkabeln sa att reparation och underhall forsvaras. ",
+        "bbox": [
+            84,
+            800,
+            917,
+            866
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "c) Fastighetsaenfintaneinarenitedvaiatrndfaafeingnlr eller $p \\dot { \\mathsf { a } }$ annatna akivnViurnenrdliee eningarnareviseingens stcnin att genom sakkunnig personal anvisa eller vidta lampliga skyddsatgarder. ",
+        "bbox": [
+            85,
+            877,
+            917,
+            922
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "Version 2019 (2018.12.18) ",
+        "bbox": [
+            776,
+            973,
+            915,
+            983
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "VATTENFALL ",
+        "bbox": [
+            680,
+            24,
+            919,
+            54
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "-1- ",
+        "bbox": [
+            504,
+            963,
+            532,
+            971
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "rctrn ",
+        "bbox": [
+            389,
+            13,
+            492,
+            41
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            30,
+            15,
+            38,
+            22
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "-2020-001508742020-04-17 ",
+        "bbox": [
+            58,
+            80,
+            739,
+            97
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ofastietsfrniinetasatili de anvisade skyddsatgarderna. ",
+        "bbox": [
+            117,
+            92,
+            919,
+            124
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d) Markbereteargspsasabruknineteasooalavidunktenf ledningens anlaggande efter anlaggandet ska kunna utovas ovanfor markkabeln. ",
+        "bbox": [
+            82,
+            135,
+            921,
+            158
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Marb assafrgaspsntaalasrusetrvidunkenfreinensane anlaggandet ska kua utovas invid markabeln och normala transporter ska kunn ske ver markkabeln Da besvria ska dock atgarderna omedelbart avbrytas och ledningsagaren kontaktas. ",
+        "bbox": [
+            126,
+            167,
+            921,
+            212
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Maf inte försvaras. ",
+        "bbox": [
+            115,
+            222,
+            919,
+            246
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 Tilltrade ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            254,
+            183,
+            266
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ledningsagaren far omedelbart ta i ansprak deienlighet med $\\ S \\uparrow$ upplatna rattigheterna. Tiltrade anses ha skett da anlggande av med staknings- och matningsarbeten. ",
+        "bbox": [
+            102,
+            267,
+            919,
+            300
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4 Ersattning ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            310,
+            194,
+            321
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a) Erstniniflppelsreietaetalsintnerinnerin grundernai expropriationslagen.Ersatningen r enengangsersatning som ska beraknas med de vrderingsmetoderfor ledningsintrang som allmant tillampas vid tidpunkten for tiltrde. ",
+        "bbox": [
+            89,
+            322,
+            919,
+            355
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "att overenskommelse om ersattning trafats och erforderlig koncession och ovriga tilstand erhallts. ",
+        "bbox": [
+            121,
+            365,
+            919,
+            388
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Har tiltrade gt rum innan ersattningen erlggs, ska erattning for intrang upprknas enligt4ap $4 \\ S$ expropriationslagen frn den dag tiltrdetskeddeenligtefiionen $\\ S 3$ til idpunkten for traffande avoverenskommelse om ersattningen.Dartill ska rnta enligt expropriationslagen utga pa det upprknade beloppet fran och med iltdesdagen til ochmedbetalningsdagen. ",
+        "bbox": [
+            110,
+            398,
+            917,
+            432
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b) Frsaeigilueaoelin Eratninfierinaeaf utaeratiaeniia sadan ersattning erlagts tidigare. ",
+        "bbox": [
+            89,
+            442,
+            919,
+            486
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Nar abonnemangsforhallande foreliger ska ersattning dock inte betalas föor obetydlig skada. ",
+        "bbox": [
+            121,
+            495,
+            670,
+            508
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c) Uppkome fraersin frsoii foreenngersninenssluaestandcsointe falt ska behandlas enligt detta stycke. ",
+        "bbox": [
+            78,
+            518,
+            919,
+            552
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "d) Aregenelleeeestaeeeeitriesel traffas med rattighetshavaren for bestmmande avden ersattning som denne r berattigad il. ",
+        "bbox": [
+            85,
+            562,
+            917,
+            586
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "e)Kanveresmelerininetraffasa istenrasvid edingrtningaelleto. ",
+        "bbox": [
+            85,
+            595,
+            868,
+            607
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\$ 5$ Virkeshantering mm. ",
+        "text_level": 1,
+        "bbox": [
+            87,
+            617,
+            255,
+            627
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ledningarenintsrsida foranlederannatmainfomationilastighetsgarenfrestendaverin samband mednyanlaggning ochunderhall.Ledningsgaren ska ven,om sa kan ske enligt dennes bedmning,erbjuda fastighetsagaren att inom skalig tid svara för avverkningen. ",
+        "bbox": [
+            95,
+            629,
+            919,
+            662
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Oleinaineinestitaiiafveine ingafeineeieafiataaieinga falls utanföor engangsersatt skogsgata. ",
+        "bbox": [
+            119,
+            671,
+            917,
+            717
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Neiiii ",
+        "bbox": [
+            114,
+            726,
+            915,
+            750
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "6 Ledningsförrittning m.m. ",
+        "text_level": 1,
+        "bbox": [
+            85,
+            759,
+            284,
+            770
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Detta avtal far laggas till grund for beslut om ledningsratt sasom overenskommelse enligt $1 4 \\ S$ forsta stycket ledningsrattslagen. Avtalet overlatelellr pplatelseavegendomen ellerav ledningen berrd del drav ora forbehallomdettaavtals bestnd. ",
+        "bbox": [
+            94,
+            771,
+            910,
+            804
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Omledninggaenstdnaestmeleaseedingt bie astighegaen-rietsavarena. ",
+        "bbox": [
+            105,
+            814,
+            907,
+            827
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "s7 Överlatelse av ledningen ",
+        "text_level": 1,
+        "bbox": [
+            84,
+            835,
+            278,
+            847
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Leingegiveinaislet skyldigheteri detta avtal. ",
+        "bbox": [
+            80,
+            847,
+            912,
+            870
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "VATTENFALL ",
+        "bbox": [
+            685,
+            23,
+            921,
+            52
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "Version 2019(2018.12.18) ",
+        "bbox": [
+            774,
+            970,
+            914,
+            980
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "-2- ",
+        "bbox": [
+            502,
+            958,
+            531,
+            969
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "D-2020-00150874 2020-04-17 ",
+        "bbox": [
+            31,
+            78,
+            707,
+            91
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "880Bortagandeavledning508742020- 0-1 ",
+        "bbox": [
+            48,
+            78,
+            709,
+            91
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Oeinneenaiiingasiest inenefa i meddelarigeeeeeinndeevfnalnellenidutsalinaenand tillse att ledningen med tilhorande anordningar tas bort. ",
+        "bbox": [
+            77,
+            92,
+            917,
+            124
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\ S 9$ Särskilda bestammelser ",
+        "bbox": [
+            90,
+            134,
+            282,
+            146
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "S 10 Förekomst av arrende/nyttjanderätt/servitut ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            173,
+            406,
+            184
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Aregendenelleelsorleingenellenangning sataeatal utareneller upplaten pa annat satt? ",
+        "bbox": [
+            97,
+            185,
+            914,
+            205
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "bbox": [
+            220,
+            217,
+            243,
+            228
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sasoaenatorrttighetsaaevanmagnner agifrestenatalilllaelenatnin min/var ratt berors. ",
+        "bbox": [
+            124,
+            239,
+            875,
+            262
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Av detta avtal har tva likalydande exemplar upprattats och utväxlats melln parterna. ",
+        "bbox": [
+            267,
+            384,
+            771,
+            395
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ledningsägare Ort: ",
+        "bbox": [
+            141,
+            426,
+            238,
+            449
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Datum: ",
+        "bbox": [
+            342,
+            438,
+            388,
+            450
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Underskrift ",
+        "text_level": 1,
+        "bbox": [
+            141,
+            486,
+            208,
+            498
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Namnförtydligande ",
+        "bbox": [
+            139,
+            531,
+            255,
+            543
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/604f342fadaf7fda7f277d260580653bdc36ba3667ed4e8e27a931ce39595dba.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            526,
+            428,
+            868,
+            803
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "Arrendatorns/rattighetshavarens namnteckning ",
+        "bbox": [
+            161,
+            305,
+            448,
+            316
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "Version 2019 (2018.12.18) ",
+        "bbox": [
+            773,
+            970,
+            912,
+            979
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "-3- ",
+        "bbox": [
+            500,
+            958,
+            529,
+            967
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "VATTENFALL ",
+        "bbox": [
+            682,
+            23,
+            919,
+            51
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "Arrendatorns/rattighetshavarens namnförtydligande ",
+        "bbox": [
+            539,
+            305,
+            853,
+            317
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "Ja□ ",
+        "bbox": [
+            129,
+            214,
+            171,
+            228
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            247,
+            214,
+            268,
+            228
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            30,
+            77,
+            48,
+            90
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            90,
+            9,
+            100,
+            16
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            48,
+            956,
+            58,
+            963
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9af7c1e3e5137fbfce684ab1646dec275fcd09b62a735c6d7f96b5fd53284195.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            94,
+            92,
+            922,
+            953
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/fccfa1db1793bd190d86cb69f7a95679dc87eaf5311b03409bd10ac234aba0aa.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=5>FASTIGHET /SAMFALLIGHET Samt PROJEKTINFORMATION                                                       Version 2019 (2018.12.20)</td></tr><tr><td rowspan=1 colspan=1>Fastighetsbeteckning:Kommun:Fastighetsnummer:Kontaktperson &amp; adress:</td><td rowspan=1 colspan=1>ORSBRATEN 1:4ALINGSASALM CHRISTERODENASÖRSBRATEN 535 44195ALINGSAS</td><td rowspan=1 colspan=2>Projektnummer:Ledning:Koncessionslöpnr:Varderingstidpunkt:Varderingsman &amp; företag:</td><td rowspan=1 colspan=1>NIS2701662019-12-12Yunis Aziz, Vinnergi Ab 190909</td></tr><tr><td rowspan=1 colspan=4>1. SCHABLONERSATTNING FOR MARKLEDNING I AKER, BETE, IMPEDIMENT (Ej skogsimpediment)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=4>Beskrivning (typ, placering, etc)                                                               Lǎngd</td><td rowspan=1 colspan=1>Bredd</td></tr><tr><td rowspan=1 colspan=4>Jordkabel enligt markering pa bifogad karta.                                                 115m</td><td rowspan=1 colspan=1>1m              459kr</td></tr><tr><td rowspan=1 colspan=5>Summa:          459 kr</td></tr><tr><td rowspan=1 colspan=5>2.SCHABLONERSATTNING FOR NATSTATIONER OCH KABELSKAP (Ej inom detaljplan)</td></tr><tr><td rowspan=1 colspan=2>Beskrivning (typ, placering, yta, etc)</td><td rowspan=1 colspan=2>Typ och markslag</td><td rowspan=1 colspan=1>Antal</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=5>Summa:</td></tr><tr><td rowspan=1 colspan=5>3. ERSATTNING FOR HINDER IAKERMARK - FOr ersattningsberakning se bilaga</td></tr><tr><td rowspan=1 colspan=4>Beskrivning (typ, placering, etc)</td><td rowspan=1 colspan=1>Ersättning</td></tr><tr><td></td><td></td><td></td><td></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=5>Summa:              kr</td></tr><tr><td rowspan=1 colspan=5>4 a. ERSATTNING FOR LEDNINGI SKOGSMARK - För ersittningsberäkning se bilaga</td></tr><tr><td rowspan=1 colspan=4>Beskrivning (typ, placering, etc)</td><td rowspan=1 colspan=1>Ersättning</td></tr><tr><td></td><td></td><td></td><td></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=5>Summa:              kr</td></tr><tr><td rowspan=1 colspan=5>4 b. ROTNETTO (Ersitts separat) - För ersättningsberakning se bilaga</td></tr><tr><td rowspan=1 colspan=5>Anvinds för berdkning av paslag (25%enligt expropriationslagen samt 20% srskid ersittning for overenskommelse)</td></tr><tr><td rowspan=1 colspan=5>Totalt rotnetto enligt bilaga:                                                      Ersattning for rotnetto regleras i bilaga</td></tr><tr><td rowspan=1 colspan=5>5. ERSATTNING FOR ÖVRIGT INTRANG - För ersättningsberakning se bilaga</td></tr><tr><td rowspan=1 colspan=4>Beskrivning (typ,placering, etc)</td><td rowspan=1 colspan=1>Ersättning</td></tr><tr><td></td><td></td><td></td><td></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=5>Summa:           - kr</td></tr><tr><td rowspan=1 colspan=5>6 a. ERSATTNING FOR LEDNING ISKOGSMARK ENLIGT STORSKOGSBRUKSAVTALET</td></tr><tr><td rowspan=1 colspan=3>Beskrivning (typ, placering, etc)                   Omrade:</td><td rowspan=1 colspan=1>Lǎngd</td><td rowspan=1 colspan=1>Bredd</td></tr><tr><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=5>Summa:             kr</td></tr><tr><td rowspan=1 colspan=5>6 b. ERSATTNING FOR INTRANG INOM VAGANLAGGNING ENLIGT STORSKOGSBRUKSAVTALET</td></tr><tr><td rowspan=1 colspan=3>Beskrivning (typ, placering, etc)</td><td rowspan=1 colspan=1>Längd</td><td rowspan=1 colspan=1>Zon</td></tr><tr><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=5>Summa:             kr</td></tr><tr><td rowspan=1 colspan=5>7.SAMMANSTALLNING</td></tr><tr><td rowspan=1 colspan=5>Tilagg enligt expropriationslagen:         115krSarskild ersattning föröverenskommelse:         115krTillagg for minimiersattning:         707 kr</td></tr><tr><td rowspan=1 colspan=5>TOTAL ERSATTNING       1395 kr</td></tr></table>",
+        "bbox": [
+            97,
+            53,
+            904,
+            743
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "utgar ränta enligt $6 \\ : \\xi$ rantellagen. Tillfilliga skador regleras vid skadetilfllet. ",
+        "bbox": [
+            95,
+            739,
+            878,
+            775
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "branschens allmanna avtalsvillkor. ",
+        "bbox": [
+            94,
+            784,
+            880,
+            819
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ovanstendegodknnsoch ersittning sitts in p filjiande konto(vrig delgare redoviss p foljiande sida/sidr) ",
+        "bbox": [
+            97,
+            824,
+            692,
+            834
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AIm Christer Fastighetsigare (födelsedatum/org.nr) 1 Agd andel Ersättning 1395,00kr 200107 Banknamn: Clearingnr:   \nShandabmben 9150 2265011   \nReferens: 10766334925 chroalm@gmail.com ",
+        "bbox": [
+            94,
+            833,
+            905,
+            939
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "ENERGI FORETAGEN ",
+        "bbox": [
+            768,
+            23,
+            892,
+            52
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            31,
+            13,
+            97,
+            20
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "VARDERINGSPROTOKOLL ",
+        "bbox": [
+            102,
+            41,
+            268,
+            53
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/66d51d9469366af7149cc91a4b27a2bd74c9573f631419f1d139e077ccfac5a3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=5>Fastighetsägare (födelsedatum/org.nr)             Agd andel     Ersattning    Fastighetsagarens godkannande</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>kr</td><td rowspan=1 colspan=1>Underskrift/Datum:</td></tr><tr><td rowspan=1 colspan=2>Banknamn:</td><td rowspan=1 colspan=2>Clearingnr:</td><td rowspan=1 colspan=1>Kontonummer, Pg/Bg, IBAN &amp; SWIFT*:</td></tr><tr><td rowspan=1 colspan=1>Referens:</td><td rowspan=1 colspan=3>Telefonnummer:</td><td rowspan=1 colspan=1>E-post:</td></tr></table>",
+        "bbox": [
+            97,
+            67,
+            904,
+            167
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/974a22f9a89ce0bbedb74eab7f3bd19f3d6f4a9b01e49827d66d840bef9a95e4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=5>Fastighetsügare (fodelsedatum/org.nr)             Agd andel     Ersüttning    Fastighetsagarens godkannande</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>kr</td><td rowspan=1 colspan=1>Underskrift/Datum:</td></tr><tr><td rowspan=1 colspan=2>Banknamn:</td><td rowspan=1 colspan=2>Clearingnr:</td><td rowspan=1 colspan=1>Kontonummer, Pg/Bg, IBAN &amp; SWIFT *:</td></tr><tr><td rowspan=1 colspan=1>Referens:</td><td rowspan=1 colspan=3>Telefonnummer:</td><td rowspan=1 colspan=1>E-post:</td></tr></table>",
+        "bbox": [
+            97,
+            187,
+            902,
+            287
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/629e8ce812b1a66b4affcffa510470133c863500e3b462a11f0f2f4c2a116246.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=5>Fastighetsägare (fodelsedatum/org.nr)              Agd andel     Ersättning    Fastighetsagarens godkannande</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1>…</td><td rowspan=1 colspan=1>kr</td><td rowspan=1 colspan=1>Underskrift/Datum:</td></tr><tr><td rowspan=1 colspan=2>Banknamn:</td><td rowspan=1 colspan=2>Clearingnr:</td><td rowspan=1 colspan=1>Kontonummer, Pg/Bg, IBAN &amp; SWIFT*:</td></tr><tr><td rowspan=1 colspan=1>Referens:</td><td rowspan=1 colspan=3>Telefonnummer:</td><td rowspan=1 colspan=1>E-post:</td></tr></table>",
+        "bbox": [
+            97,
+            307,
+            902,
+            406
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/497f794f641d4c0ac6de985cd941a81cd35e9ad2d41f2a03a733c22b1924fc5f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=5>Fastighetsägare (födelsedatum/org.nr)              Agd andel     Ersättning    Fastighetsagarens godkännande</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>kr</td><td rowspan=1 colspan=1>Underskrift/Datum:</td></tr><tr><td rowspan=1 colspan=2>Banknamn:</td><td rowspan=1 colspan=2>Clearingnr:</td><td rowspan=1 colspan=1>Kontonummer, Pg/Bg, BAN &amp; SWIFT*:</td></tr><tr><td rowspan=1 colspan=1>Referens:</td><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1>E-post:</td></tr></table>",
+        "bbox": [
+            95,
+            426,
+            902,
+            526
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/05d74e336741f3e66bc4d4e130bd1d0b6e57385bd971fe3c03a5248d94badbad.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">Fastighetsügare (fodelsedatum/org.nr)</td><td>Ågd andel</td><td>Ersäittning Underskrift/Datum:</td><td>Fastighetsagarens godkännande</td></tr><tr><td colspan=\"2\"></td><td></td><td>kr</td><td></td></tr><tr><td colspan=\"2\">Banknamn: ………</td><td colspan=\"2\">Clearingnr:</td><td>Kontonummer, Pg/Bg, IBAN &amp; SWIFT *:</td></tr><tr><td rowspan=\"2\">Referens:</td><td colspan=\"3\">Telefonnummer:</td><td>E-post:</td></tr><tr><td colspan=\"3\"></td><td></td></tr></table>",
+        "bbox": [
+            94,
+            546,
+            902,
+            645
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/b63de9e0cbd15cf2f4b7380b015a0fdcaf03c741041f40dbbd978b25ad0a9a64.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">Fastighetsigare (födelsedatum/org.nr)</td><td>Agd andel</td><td>Ersüttning</td><td>Fastighetsagarens godkannande Underskrift/Datum:</td></tr><tr><td colspan=\"2\"></td><td></td><td>kr</td><td></td></tr><tr><td colspan=\"2\">Banknamn:</td><td>Clearingnr:</td><td></td><td>Kontonummer, Pg/Bg, IBAN &amp;SWIFT*</td></tr><tr><td>Referens:</td><td colspan=\"3\">Telefonnummer:</td><td>E-post:</td></tr></table>",
+        "bbox": [
+            94,
+            665,
+            900,
+            765
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/6362be72005d9fb3d1f4d050762feac422aab6f21d3f4f15b37b9bb9618d66df.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "\\*For att kunna göra en utbetalning tillutlindskt konto behovs IBAN-nummer och bankens SWiFT-kod. "
+        ],
+        "table_body": "<table><tr><td colspan=\"2\">Fastighetsägare (födelsedatum/org.nr)</td><td>Agd andel</td><td>Ersüttning</td><td>Fastighetsügarens godkannande</td></tr><tr><td colspan=\"2\"></td><td></td><td>kr</td><td>Underskrift/Datum:</td></tr><tr><td colspan=\"2\">Banknamn:</td><td>Clearingnr:</td><td></td><td>Kontonummer, Pg/Bg, IBAN &amp; SWIFT *:</td></tr><tr><td>Referens:</td><td colspan=\"3\">Telefonnummer:</td><td>E-post:</td></tr></table>",
+        "bbox": [
+            92,
+            784,
+            900,
+            884
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "ENERGI FORETAGEN ",
+        "bbox": [
+            764,
+            38,
+            887,
+            66
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "For övriga deligares andels-/ersattningsberakning se sida 2 ",
+        "bbox": [
+            589,
+            22,
+            897,
+            32
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            31,
+            13,
+            38,
+            17
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/edb7623afd74672deac845ef5251b036a696f92e68a7b1368e98d58e9fdf84f2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            73,
+            102,
+            924,
+            954
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "VATTENFALL ",
+        "bbox": [
+            781,
+            47,
+            917,
+            64
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            31,
+            14,
+            95,
+            22
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            90,
+            72,
+            564,
+            80
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/b012bb18b53c56f03b54574422b2816c0d49bfa5b2a89d9bf72458ab0637d08e.jpg",
+        "table_caption": [
+            "VARDERINGSPROTOKOLL "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=6>FASTIGHET /SAMFALLIGHET Samt PROJEKTINFORMATION                                                       Version 2019 (2018.12.20)</td></tr><tr><td rowspan=1 colspan=1>Fastighetsbeteckning:Kommun:Fastighetsnummer:Kontaktperson&amp;adress:</td><td rowspan=1 colspan=3>ORSBRATEN 1:4                                         Projektnummer:ALINGSAS                                                    Ledning:Koncessionslopnr:Alm,Christer                ODENAS               Varderingstidpunkt:ORSBRATEN 535, 44195ALINGSAS                 Varderingsman &amp; företag:</td><td rowspan=1 colspan=2>NIS2701662020-02-21Yunis Aziz, Vinnergi AB 190909</td></tr><tr><td rowspan=1 colspan=4>1. SCHABLONERSATTNING FOR MARKLEDNING IAKER, BETE, IMPEDIMENT (Ej kogsimpediment)</td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=3>Beskrivning (typ,placering, etc)</td><td rowspan=1 colspan=1>Lǎngd</td><td rowspan=1 colspan=1>Bredd</td><td rowspan=1 colspan=1>Ersättning</td></tr><tr><td rowspan=1 colspan=3>Jordkabel enligt markering pa bifogad karta.</td><td rowspan=1 colspan=1>20m</td><td rowspan=1 colspan=2>1m                80kr</td></tr><tr><td rowspan=1 colspan=6>Summa:           80kr</td></tr><tr><td rowspan=1 colspan=6>2.SCHABLONERSATTNING FOR NATSTATIONER OCH KABELSKAP (Ej inom detaljplan)</td></tr><tr><td rowspan=1 colspan=2>Beskrivning (typ,placering, yta,et)</td><td rowspan=1 colspan=2>Typ och markslag</td><td rowspan=1 colspan=1>Antal</td><td rowspan=1 colspan=1>Ersättning</td></tr><tr><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=6>Summa:             kr</td></tr><tr><td rowspan=1 colspan=6>3. ERSATTNING FOR HINDER I AKERMARK - For ersattningsberakning se bilaga</td></tr><tr><td rowspan=1 colspan=5>Beskrivning (typ,placering, etc)</td><td rowspan=1 colspan=1>Ersattning</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=6>Summa:             kr</td></tr><tr><td rowspan=1 colspan=6>4 a. ERSATTNING FOR LEDNING I SKOGSMARK - För ersattningsberakning se bilaga</td></tr><tr><td rowspan=1 colspan=5>Beskrivning (typ, placering, etc)</td><td rowspan=1 colspan=1>Ersattning</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=6>Summa:             kr</td></tr><tr><td rowspan=1 colspan=6>4 b. ROTNETTO (Ersatts separat) - För ersättningsberäkning se bilaga</td></tr><tr><td rowspan=1 colspan=6>Anvands for berkning av paslag (25%enligt expropriationslagen samt20% srskild ersattning för overenskommelse)</td></tr><tr><td rowspan=1 colspan=6>Totalt rotnetto enligt bilaga:                                                     Ersattning for rotnetto regleras i bilaga</td></tr><tr><td rowspan=1 colspan=6>5. ERSATTNING FOR OVRIGT INTRANG - För ersittningsberakning Se bilaga</td></tr><tr><td rowspan=1 colspan=5>Beskrivning (typ, placering, etc)</td><td rowspan=1 colspan=1>Ersättning</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=6>Summa:             kr</td></tr><tr><td rowspan=1 colspan=6>6 a. ERSATTNING FOR LEDNING I SKOGSMARK ENLIGT STORSKOGSBRUKSAVTALET</td></tr><tr><td rowspan=1 colspan=3>Beskrivning (typ,placering, etc)                   Omrade:</td><td rowspan=1 colspan=1>Lǎngd</td><td rowspan=1 colspan=1>Bredd</td><td rowspan=1 colspan=1>Ersättning</td></tr><tr><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=6>Summa:             kr</td></tr><tr><td rowspan=1 colspan=6>6 b. ERSATTNING FOR INTRANG INOM VAGANLAGGNING ENLIGT STORSKOGSBRUKSAVTALET</td></tr><tr><td rowspan=1 colspan=3>Beskrivning (typ, placering, etc)</td><td rowspan=1 colspan=1>Längd</td><td rowspan=1 colspan=1>Zon</td><td rowspan=1 colspan=1>Ersättning</td></tr><tr><td rowspan=1 colspan=3></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=2></td></tr><tr><td rowspan=1 colspan=6>Summa:</td></tr><tr><td rowspan=1 colspan=6>7. SAMMANSTALLNING</td></tr><tr><td rowspan=1 colspan=6>Tillagg enligt expropriationslagen:          20krSarskild ersattning for överenskommelse:          20krTillagg for minimiersttning:        1275kr</td></tr><tr><td rowspan=1 colspan=6>TOTAL ERSATTNING       1395kr</td></tr></table>",
+        "bbox": [
+            97,
+            46,
+            904,
+            741
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "stigl utgar rǎnta enligt $^ { 6 \\ : \\delta }$ rantelagen. Tilflliga skador regleras vid skadetilfallet. ",
+        "bbox": [
+            94,
+            737,
+            877,
+            772
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/f9217649dc48ed202e6669fed55fee438703d62a22a0b1ff9f5833e4f007f7d5.jpg",
+        "table_caption": [
+            "anstaende godknnsoch ersittning sitt in pa fljiande konto (vriga delgare redovisas pa filjiande sida/sidor) "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">Fastighetsägare (fodelsedatum/org.nr)</td><td>Agd andel</td><td>Ersüttning</td><td>Fastighetsagarens godkannande</td><td></td></tr><tr><td colspan=\"2\">Alm, Christer</td><td></td><td>1395,00kr</td><td>Underskrift/Datum: </td><td>200228</td></tr><tr><td colspan=\"2\">Banknamn: Skamdia</td><td>Clearingnr: 9iso</td><td></td><td colspan=\"2\">Kontonummer, Pg/Bg, IBAN &amp; SWIFT*: 2265011 E-post:</td></tr><tr><td>Referens:</td><td colspan=\"3\">Telefonnummer: 6766-334925</td><td>chvoalm@ gma'l.con.</td></tr><tr><td colspan=\"2\">Fastighetsägare (födelsedatum/org.nr)</td><td>Agd andel</td><td>Ersäittning</td><td colspan=\"2\">Fastighetsägarens godkännande</td></tr><tr><td colspan=\"2\"></td><td></td><td>kr</td><td colspan=\"2\">Underskrift/Datum:</td></tr><tr><td colspan=\"2\">Banknamn:</td><td>Clearingnr:</td><td></td><td colspan=\"2\">Kontonummer, Pg/Bg, IBAN &amp;SWIFT*:</td></tr><tr><td>Referens:</td><td colspan=\"3\">Telefonnummer:</td><td colspan=\"2\">E-post:</td></tr></table>",
+        "bbox": [
+            94,
+            832,
+            905,
+            934
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "ENERGI FORETAGEN ",
+        "bbox": [
+            768,
+            20,
+            889,
+            48
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "rtur ",
+        "bbox": [
+            440,
+            3,
+            519,
+            29
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "1 ",
+        "bbox": [
+            30,
+            14,
+            99,
+            21
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            99,
+            66,
+            905,
+            166
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/4cede6f7ff7cccd0f6f63b2632e88006a174e4add7b742f499d65ec7db41a4ea.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">Fastighetsägare (fodelsedatum/org.nr)</td><td>Agd andel </td><td>Ersäittning</td><td>Fastighetsagarens godkännande</td></tr><tr><td colspan=\"2\"></td><td></td><td>kr</td><td>Underskrift/Datum:</td></tr><tr><td colspan=\"2\">Banknamn:</td><td>Clearingnr:</td><td></td><td>Kontonummer, Pg/Bg, IBAN &amp;SWIFT*:</td></tr><tr><td>Referens:</td><td colspan=\"3\">Telefonnummer:</td><td>E-post:</td></tr></table>",
+        "bbox": [
+            99,
+            185,
+            904,
+            285
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/6b2abf9616e8248515d353d779a74a47aeadc2c36f45695d9789243b3f6f133c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">Fastighetsägare (fodelsedatum/org.nr)</td><td>Agd andel</td><td>Ersättning</td><td>Fastighetsägarens godkännande</td></tr><tr><td colspan=\"2\"></td><td></td><td>kr</td><td>Underskrift/Datum:</td></tr><tr><td colspan=\"2\">Banknamn:</td><td>Clearingnr:</td><td></td><td>Kontonummer, Pg/Bg, IBAN &amp; SWIFT*:</td></tr><tr><td>Referens:</td><td colspan=\"3\">Telefonnummer: </td><td>E-post:</td></tr></table>",
+        "bbox": [
+            97,
+            305,
+            904,
+            404
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/ebe30e4a12f3074608fb83c1a31308ba0b3fa405750c8915c94f41a4e3fe5e5b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">Fastighetsägare (fodelsedatum/org.nr)</td><td>Agd andel</td><td>Ersättning</td><td>Fastighetsügarens godkannande</td></tr><tr><td colspan=\"2\"></td><td></td><td>kr</td><td>Underskrift/Datum:</td></tr><tr><td colspan=\"2\">Banknamn:</td><td>Clearingnr:</td><td></td><td>Kontonummer, Pg/Bg, IBAN &amp; SWIFT*</td></tr><tr><td>Referens:</td><td colspan=\"3\">Telefonnummer:</td><td>E-post:</td></tr></table>",
+        "bbox": [
+            97,
+            424,
+            904,
+            524
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/44705e82271a621dbbfdfb0daf84a1e6888635979cceb9580a4e52bb929e6dda.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">Fastighetsigare (fodelsedatum/org.nr)</td><td>Agd andel</td><td>Ersäittning</td><td>Fastighetsagarens godkännande</td></tr><tr><td colspan=\"2\"></td><td></td><td>kr</td><td>Underskrift/Datum:</td></tr><tr><td colspan=\"2\">Banknamn:</td><td>Clearingnr:</td><td></td><td>Kontonummer, Pg/Bg, IBAN &amp; SWIFT*:</td></tr><tr><td>Referens:</td><td colspan=\"3\">Telefonnummer:</td><td>E-post:</td></tr></table>",
+        "bbox": [
+            95,
+            543,
+            905,
+            644
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/14f2ae5aca7acffc0b6e392f3cf5b1e3fcbb4364b5325ed270498b65446c5bd7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"2\">Fastighetsägare (födelsedatum/org.nr)</td><td>Agd andel</td><td>Ersüttning</td><td>Fastighetsägarens godkännande</td></tr><tr><td colspan=\"2\"></td><td></td><td>kr</td><td>Underskrift/Datum:</td></tr><tr><td colspan=\"2\">Banknamn:</td><td></td><td></td><td>Kontonummer, Pg/Bg, IBAN &amp; SWIFT*:</td></tr><tr><td>Referens:</td><td colspan=\"3\">Telefonnummer:</td><td>E-post:</td></tr></table>",
+        "bbox": [
+            95,
+            663,
+            904,
+            763
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/f953bfdef536bfb5b74b7f8bc66325a03ea8b5a381f3978fedf49d1a0e55d773.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "For att kunna göra en utbetalning til utlindskt konto behövs IBAN-nummer och bankens SWIFT-koc "
+        ],
+        "table_body": "<table><tr><td colspan=\"2\">Fastighetsäigare (fodelsedatum/org.nr)</td><td>Ågd andel</td><td>Ersüttning</td><td>Fastighetsägarens godkannande</td></tr><tr><td colspan=\"2\"></td><td></td><td>kr</td><td>Underskrift/Datum:</td></tr><tr><td colspan=\"2\">Banknamn: Telefonnummer:</td><td>Clearingnr:</td><td></td><td>Kontonummer, Pg/Bg, IBAN &amp; SWIFT*:</td></tr><tr><td>Referens:</td><td colspan=\"3\"></td><td>E-post:</td></tr></table>",
+        "bbox": [
+            95,
+            783,
+            904,
+            883
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "ENERGI FORETAGEN ",
+        "bbox": [
+            766,
+            34,
+            887,
+            64
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "For ovriga deligares andels-lersattningsberakning se sida 2 ",
+        "bbox": [
+            591,
+            19,
+            899,
+            29
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            38,
+            13,
+            100,
+            21
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Lantmateriet Fastighetsinskrivning SE 761 80 Nortalje Telefon: 0771-63 63 63 ",
+        "bbox": [
+            109,
+            67,
+            286,
+            122
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Arendenr: D-2020-00150874 Inskrivningsdatum: 2020-04-17 Innehall: Avtalsratighet Fastighet: ALINGSAS ORSBRATeN 1:4 ",
+        "bbox": [
+            107,
+            218,
+            510,
+            281
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Enligt ansokan har foljiande inskrivningsatgärd beviljats: ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            304,
+            560,
+            319
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Avtalsservitut Krafledning D-2020-00150874:1 ",
+        "bbox": [
+            109,
+            324,
+            454,
+            338
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Om ratigheten upphor helt eller delvis ska rätighetshavaren ansoka om at inskrivningen ska tas bort.   \nDet ska göras inom tre manader fran att ratigheten upphört. ",
+        "bbox": [
+            105,
+            356,
+            860,
+            387
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Beslut i detta ärende har fattats av Linda Karsson. ",
+        "bbox": [
+            107,
+            403,
+            484,
+            417
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Kostnadsspecifikation: ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            442,
+            291,
+            457
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Expeditionsavgift 375 SEK ",
+        "bbox": [
+            107,
+            466,
+            317,
+            481
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fragor rorande beslut eller ev. avgifter i arendet besvaras av Fastighetsinskrivningen enligt kontaktuppgifter längst upp pa denna sida. ",
+        "bbox": [
+            102,
+            529,
+            837,
+            557
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "bbox": [
+            13,
+            594,
+            45,
+            617
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "I de fall originalhandlingar, som limnats in i samband med ansökan ska returneras (ex.   \nköpebrev), gors detta i separat forsandelse.   \nDelta ivar kundnöjdhetsundersòkning   \nVad tycker du som kund om Lantmäteriet? Beräitta genom at svara på nágra fragor och var med och   \ntavla om biobiljetter. Tack for hjalpen!   \nTill enkaten: www.lantmateret.se/kundsvar ",
+        "bbox": [
+            105,
+            573,
+            800,
+            601
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            104,
+            638,
+            867,
+            695
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Om du har en smarttelefon kan du använda den för att läsa av QR-koden och komma til enkaten. ",
+        "bbox": [
+            102,
+            776,
+            827,
+            791
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "UNDERRATTELSE Utskritsdatum Arendenummer 2020-04-28 D-2020-00150874 ",
+        "bbox": [
+            545,
+            35,
+            780,
+            82
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "LANTMATERIET 1LL1 ",
+        "bbox": [
+            112,
+            33,
+            322,
+            59
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "2200751473 ",
+        "bbox": [
+            699,
+            963,
+            796,
+            976
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "- - ",
+        "bbox": [
+            15,
+            101,
+            48,
+            239
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            112,
+            714,
+            191,
+            770
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            16,
+            0,
+            70,
+            5
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            983,
+            933,
+            991,
+            941
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "Nar Lantmateret samlarin personuppgifter ska myndigheten lämna infomation om den behandling av personuppgifter som gors. Infomationen gar at hita pa www.lantmateriet.se/personuppgifter eller genom at kontakta Kundcenter pa telefonnummer 0771-63 63 63. ",
+        "bbox": [
+            102,
+            910,
+            862,
+            952
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "− ",
+        "bbox": [
+            11,
+            460,
+            52,
+            520
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            11,
+            675,
+            26,
+            694
+        ],
+        "page_idx": 9
+    }
+]

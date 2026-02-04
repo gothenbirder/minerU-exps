@@ -1,0 +1,16 @@
+[project]
+name = "mineru-exps"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter-collaboration>=4.2.0",
+    "jupyterlab>=4.5.3",
+    "jupyterlab-lsp>=5.2.0",
+    "jupyterlab-vim>=4.1.4",
+    "nltk>=3.9.2",
+    "python-lsp-server[all]>=1.14.0",
+    "scikit-learn>=1.8.0",
+    "wordcloud>=1.9.6",
+]

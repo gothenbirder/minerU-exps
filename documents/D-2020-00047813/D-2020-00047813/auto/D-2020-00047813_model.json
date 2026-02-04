@@ -1,0 +1,6619 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    174,
+                    1475,
+                    1438,
+                    1475,
+                    1438,
+                    1608,
+                    174,
+                    1608
+                ],
+                "score": 0.949
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    168,
+                    1321,
+                    1323,
+                    1321,
+                    1323,
+                    1388,
+                    168,
+                    1388
+                ],
+                "score": 0.933
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    173,
+                    147,
+                    467,
+                    147,
+                    467,
+                    275,
+                    173,
+                    275
+                ],
+                "score": 0.932
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    176,
+                    816,
+                    1426,
+                    816,
+                    1426,
+                    888,
+                    176,
+                    888
+                ],
+                "score": 0.93
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    171,
+                    1217,
+                    1389,
+                    1217,
+                    1389,
+                    1285,
+                    171,
+                    1285
+                ],
+                "score": 0.924
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    175,
+                    2106,
+                    1434,
+                    2106,
+                    1434,
+                    2204,
+                    175,
+                    2204
+                ],
+                "score": 0.922
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    175,
+                    927,
+                    824,
+                    927,
+                    824,
+                    961,
+                    175,
+                    961
+                ],
+                "score": 0.919
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    171,
+                    495,
+                    928,
+                    495,
+                    928,
+                    643,
+                    171,
+                    643
+                ],
+                "score": 0.889
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    172,
+                    1795,
+                    1381,
+                    1795,
+                    1381,
+                    1830,
+                    172,
+                    1830
+                ],
+                "score": 0.817
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    174,
+                    1073,
+                    523,
+                    1073,
+                    523,
+                    1109,
+                    174,
+                    1109
+                ],
+                "score": 0.763
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    893,
+                    65,
+                    1286,
+                    65,
+                    1286,
+                    175,
+                    893,
+                    175
+                ],
+                "score": 0.743
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    177,
+                    65,
+                    527,
+                    65,
+                    527,
+                    125,
+                    177,
+                    125
+                ],
+                "score": 0.665
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    190,
+                    1653,
+                    317,
+                    1653,
+                    317,
+                    1782,
+                    190,
+                    1782
+                ],
+                "score": 0.627
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    1163,
+                    2225,
+                    1324,
+                    2225,
+                    1324,
+                    2257,
+                    1163,
+                    2257
+                ],
+                "score": 0.614
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    12,
+                    808,
+                    81,
+                    808,
+                    81,
+                    1309,
+                    12,
+                    1309
+                ],
+                "score": 0.591
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    177,
+                    744,
+                    747,
+                    744,
+                    747,
+                    777,
+                    177,
+                    777
+                ],
+                "score": 0.573
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    174,
+                    696,
+                    922,
+                    696,
+                    922,
+                    731,
+                    174,
+                    731
+                ],
+                "score": 0.465
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    175,
+                    1021,
+                    481,
+                    1021,
+                    481,
+                    1055,
+                    175,
+                    1055
+                ],
+                "score": 0.449
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    190,
+                    1653,
+                    317,
+                    1653,
+                    317,
+                    1782,
+                    190,
+                    1782
+                ],
+                "score": 0.314
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    175,
+                    1021,
+                    481,
+                    1021,
+                    481,
+                    1055,
+                    175,
+                    1055
+                ],
+                "score": 0.288
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    176,
+                    1476,
+                    682,
+                    1476,
+                    682,
+                    1509,
+                    176,
+                    1509
+                ],
+                "score": 0.24
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    1163,
+                    2225,
+                    1324,
+                    2225,
+                    1324,
+                    2257,
+                    1163,
+                    2257
+                ],
+                "score": 0.219
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    8,
+                    394,
+                    32,
+                    394,
+                    32,
+                    607,
+                    8,
+                    607
+                ],
+                "score": 0.205
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    174,
+                    696,
+                    922,
+                    696,
+                    922,
+                    731,
+                    174,
+                    731
+                ],
+                "score": 0.093
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    170.0,
+                    2106.0,
+                    1434.0,
+                    2106.0,
+                    1434.0,
+                    2144.0,
+                    170.0,
+                    2144.0
+                ],
+                "score": 0.959,
+                "text": "Nar Lantmateriet samlar in personuppgifter ska myndigheten lamna infomation om den behandling av"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    170.0,
+                    2140.0,
+                    1383.0,
+                    2140.0,
+                    1383.0,
+                    2175.0,
+                    170.0,
+                    2175.0
+                ],
+                "score": 0.968,
+                "text": "personuppgifter som gors. Informationen gar att hita pa www.lantmateriet.se/personuppgifter eller"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    169.0,
+                    2169.0,
+                    993.0,
+                    2169.0,
+                    993.0,
+                    2211.0,
+                    169.0,
+                    2211.0
+                ],
+                "score": 0.971,
+                "text": "genom att Kontakta Kundcenter pa telefonnummer 0771-63 63 63."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    894.0,
+                    67.0,
+                    1239.0,
+                    67.0,
+                    1239.0,
+                    109.0,
+                    894.0,
+                    109.0
+                ],
+                "score": 0.993,
+                "text": "UNDERRATTELSE"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    894.0,
+                    112.0,
+                    1217.0,
+                    112.0,
+                    1217.0,
+                    142.0,
+                    894.0,
+                    142.0
+                ],
+                "score": 0.972,
+                "text": "Utskriftsdatum Arendenummer"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    894.0,
+                    142.0,
+                    1285.0,
+                    142.0,
+                    1285.0,
+                    172.0,
+                    894.0,
+                    172.0
+                ],
+                "score": 0.999,
+                "text": "2020-02-13D-2020-00047813"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    202.0,
+                    65.0,
+                    500.0,
+                    65.0,
+                    500.0,
+                    100.0,
+                    202.0,
+                    100.0
+                ],
+                "score": 0.709,
+                "text": "LANTMＡTERIET"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    185.0,
+                    104.0,
+                    225.0,
+                    104.0,
+                    225.0,
+                    115.0,
+                    185.0,
+                    115.0
+                ],
+                "score": 0.149,
+                "text": "L"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    347.0,
+                    106.0,
+                    352.0,
+                    106.0,
+                    352.0,
+                    111.0,
+                    347.0,
+                    111.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    200.0,
+                    1746.0,
+                    252.0,
+                    1746.0,
+                    252.0,
+                    1775.0,
+                    200.0,
+                    1775.0
+                ],
+                "score": 0.184,
+                "text": "可"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    171.0,
+                    695.0,
+                    925.0,
+                    695.0,
+                    925.0,
+                    738.0,
+                    171.0,
+                    738.0
+                ],
+                "score": 0.965,
+                "text": "Enligt ansökan har följande inskrivningsatgärd beviljats:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    170.0,
+                    1018.0,
+                    485.0,
+                    1018.0,
+                    485.0,
+                    1059.0,
+                    170.0,
+                    1059.0
+                ],
+                "score": 0.998,
+                "text": "Kostnadsspecifikation:"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    200.0,
+                    1746.0,
+                    252.0,
+                    1746.0,
+                    252.0,
+                    1775.0,
+                    200.0,
+                    1775.0
+                ],
+                "score": 0.184,
+                "text": "可"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    170.0,
+                    1467.0,
+                    685.0,
+                    1467.0,
+                    685.0,
+                    1519.0,
+                    170.0,
+                    1519.0
+                ],
+                "score": 0.973,
+                "text": "Delta i var kundnöjdhetsundersǒkning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1162.0,
+                    2223.0,
+                    1326.0,
+                    2223.0,
+                    1326.0,
+                    2260.0,
+                    1162.0,
+                    2260.0
+                ],
+                "score": 1.0,
+                "text": "2200285563"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    4.0,
+                    388.0,
+                    40.0,
+                    388.0,
+                    40.0,
+                    612.0,
+                    4.0,
+                    612.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    168.0,
+                    1470.0,
+                    685.0,
+                    1470.0,
+                    685.0,
+                    1515.0,
+                    168.0,
+                    1515.0
+                ],
+                "score": 0.967,
+                "text": "Delta i var kundnöjdhetsundersökning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    165.0,
+                    1504.0,
+                    1438.0,
+                    1504.0,
+                    1438.0,
+                    1550.0,
+                    165.0,
+                    1550.0
+                ],
+                "score": 0.92,
+                "text": "Vad tycker cdu som kund om Lantmäteriet? Beratta genom at svara pa nagra fragor och var med och"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    171.0,
+                    1541.0,
+                    640.0,
+                    1541.0,
+                    640.0,
+                    1578.0,
+                    171.0,
+                    1578.0
+                ],
+                "score": 0.943,
+                "text": "tavla om biobiljetter. Tack for hjalpen!"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    170.0,
+                    1569.0,
+                    709.0,
+                    1569.0,
+                    709.0,
+                    1613.0,
+                    170.0,
+                    1613.0
+                ],
+                "score": 0.963,
+                "text": "Till enkäten: www.lantmateriet.se/kundsvar"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    170.0,
+                    1318.0,
+                    1323.0,
+                    1318.0,
+                    1323.0,
+                    1358.0,
+                    170.0,
+                    1358.0
+                ],
+                "score": 0.966,
+                "text": "I de fall originalhandlingar, som lämnats in I samband med ansökan ska returneras (ex."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    172.0,
+                    1355.0,
+                    755.0,
+                    1355.0,
+                    755.0,
+                    1391.0,
+                    172.0,
+                    1391.0
+                ],
+                "score": 0.961,
+                "text": "köpebrev), görs detta i separat försandelse."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    167.0,
+                    144.0,
+                    338.0,
+                    144.0,
+                    338.0,
+                    177.0,
+                    167.0,
+                    177.0
+                ],
+                "score": 0.977,
+                "text": "Lantmateriet"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    166.0,
+                    172.0,
+                    441.0,
+                    172.0,
+                    441.0,
+                    215.0,
+                    166.0,
+                    215.0
+                ],
+                "score": 0.994,
+                "text": "Fastighetsinskrivning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    170.0,
+                    205.0,
+                    424.0,
+                    205.0,
+                    424.0,
+                    245.0,
+                    170.0,
+                    245.0
+                ],
+                "score": 0.899,
+                "text": "SE 761 80 Norrtalje"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    171.0,
+                    242.0,
+                    468.0,
+                    242.0,
+                    468.0,
+                    274.0,
+                    171.0,
+                    274.0
+                ],
+                "score": 0.97,
+                "text": "Telefon: 0771-63 63 63"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    171.0,
+                    814.0,
+                    1427.0,
+                    814.0,
+                    1427.0,
+                    856.0,
+                    171.0,
+                    856.0
+                ],
+                "score": 0.96,
+                "text": "Om ratigheten upphor helt eller delvis ska ratighetshavaren ansoka om att inskrivningen ska tas bort."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    171.0,
+                    853.0,
+                    918.0,
+                    853.0,
+                    918.0,
+                    891.0,
+                    171.0,
+                    891.0
+                ],
+                "score": 0.937,
+                "text": "Det ska göras inom tre manader fran att rätigheten upphort."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    168.0,
+                    1214.0,
+                    1385.0,
+                    1214.0,
+                    1385.0,
+                    1260.0,
+                    168.0,
+                    1260.0
+                ],
+                "score": 0.979,
+                "text": "Fragor rörande beslut eller ev. avgifter i ärendet besvaras av Fastighetsinskrivningen enligt"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    172.0,
+                    1250.0,
+                    746.0,
+                    1250.0,
+                    746.0,
+                    1286.0,
+                    172.0,
+                    1286.0
+                ],
+                "score": 0.979,
+                "text": "kontaktuppgifter langst upp pa denna sida."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    172.0,
+                    926.0,
+                    825.0,
+                    926.0,
+                    825.0,
+                    964.0,
+                    172.0,
+                    964.0
+                ],
+                "score": 0.967,
+                "text": "Beslut i detta ärende har fattats av Annelie Karlsson."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    171.0,
+                    495.0,
+                    313.0,
+                    495.0,
+                    313.0,
+                    533.0,
+                    171.0,
+                    533.0
+                ],
+                "score": 0.99,
+                "text": "Arendenr:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    469.0,
+                    500.0,
+                    695.0,
+                    500.0,
+                    695.0,
+                    528.0,
+                    469.0,
+                    528.0
+                ],
+                "score": 0.999,
+                "text": "D-2020-00047813"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    171.0,
+                    535.0,
+                    436.0,
+                    535.0,
+                    436.0,
+                    572.0,
+                    171.0,
+                    572.0
+                ],
+                "score": 0.995,
+                "text": "Inskrivningsdatum:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    466.0,
+                    534.0,
+                    618.0,
+                    534.0,
+                    618.0,
+                    568.0,
+                    466.0,
+                    568.0
+                ],
+                "score": 0.999,
+                "text": "2020-02-05"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    172.0,
+                    573.0,
+                    294.0,
+                    573.0,
+                    294.0,
+                    605.0,
+                    172.0,
+                    605.0
+                ],
+                "score": 0.972,
+                "text": "Innehall:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    464.0,
+                    572.0,
+                    654.0,
+                    572.0,
+                    654.0,
+                    609.0,
+                    464.0,
+                    609.0
+                ],
+                "score": 0.971,
+                "text": "Avtalsrättighet"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    169.0,
+                    604.0,
+                    315.0,
+                    604.0,
+                    315.0,
+                    647.0,
+                    169.0,
+                    647.0
+                ],
+                "score": 0.99,
+                "text": "Fastighet:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    464.0,
+                    607.0,
+                    927.0,
+                    607.0,
+                    927.0,
+                    640.0,
+                    464.0,
+                    640.0
+                ],
+                "score": 0.952,
+                "text": "ASKERSUND ASKERSUNDSBY 1:5"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    172.0,
+                    1791.0,
+                    1374.0,
+                    1791.0,
+                    1374.0,
+                    1831.0,
+                    172.0,
+                    1831.0
+                ],
+                "score": 0.94,
+                "text": "Om du har en smarttelefon kan du anvanda den för attlisa av QR-koden och komma til enkaten."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    170.0,
+                    1072.0,
+                    525.0,
+                    1072.0,
+                    525.0,
+                    1112.0,
+                    170.0,
+                    1112.0
+                ],
+                "score": 0.977,
+                "text": "Expeditionsavgift 375 SEK"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1162.0,
+                    2223.0,
+                    1326.0,
+                    2223.0,
+                    1326.0,
+                    2260.0,
+                    1162.0,
+                    2260.0
+                ],
+                "score": 1.0,
+                "text": "2200285563"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    171.0,
+                    742.0,
+                    752.0,
+                    742.0,
+                    752.0,
+                    780.0,
+                    171.0,
+                    780.0
+                ],
+                "score": 0.969,
+                "text": "Avtalsservitut Kraftledning D-2020-00047813:1"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    170.0,
+                    1018.0,
+                    485.0,
+                    1018.0,
+                    485.0,
+                    1059.0,
+                    170.0,
+                    1059.0
+                ],
+                "score": 0.998,
+                "text": "Kostnadsspecifikation:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    171.0,
+                    695.0,
+                    925.0,
+                    695.0,
+                    925.0,
+                    738.0,
+                    171.0,
+                    738.0
+                ],
+                "score": 0.97,
+                "text": "Enligt ansökan har följande inskrivningsatgärd beviljats:"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1656,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    137,
+                    1284,
+                    1482,
+                    1284,
+                    1482,
+                    1387,
+                    137,
+                    1387
+                ],
+                "score": 0.968
+            },
+            {
+                "category_id": 5,
+                "poly": [
+                    178,
+                    241,
+                    1522,
+                    241,
+                    1522,
+                    1191,
+                    178,
+                    1191
+                ],
+                "score": 0.966,
+                "html": "<table><tr><td rowspan=1 colspan=5>imark (jordkabel)                     nätstation</td></tr><tr><td rowspan=1 colspan=5> Belastad fastighet</td></tr><tr><td rowspan=1 colspan=3>Fastighet (fastighetsagarens)Askersundsby 1:5</td><td rowspan=3 colspan=2>Kontaktperson (namn, adress, telefon)Gunilla HolländerAskersundsby Västra Gardsjötorp 409696 91 AskersundOniginalavtalet skickas til kontaktpersonen</td></tr><tr><td rowspan=1 colspan=1>KommunAskersund</td><td rowspan=1 colspan=2>LǎnÖrebro</td></tr><tr><td rowspan=1 colspan=3>Fastighetsagare (namn, personnummer/organisationsnummer)Gunilla Holländer. 19450704Vid ffer delāgare se separat delāgarbilaga</td></tr><tr><td rowspan=1 colspan=3> Förmansfastighet</td><td rowspan=1 colspan=2>Projektsinformation</td></tr><tr><td rowspan=1 colspan=3>Fastighet (ledningsagarens)Nyköpings Bruk 6</td><td rowspan=2 colspan=2>Projektnamn:            Norra Hunna VindkraftProjektnummer (NIS):   268759Ledningslittera:Transformator (nr):</td></tr><tr><td rowspan=1 colspan=2>KommunNyköping</td><td rowspan=1 colspan=1>LǎnSödermanland</td></tr><tr><td rowspan=1 colspan=3>Ledningsǎgare (namn, organisationsnummer)Vattenfall Eldistribution AB, Org.nr 556417-0800</td><td rowspan=1 colspan=2>Ansvarig Projektledare: Magnus Bengtsson</td></tr><tr><td rowspan=1 colspan=5>Ersattning</td></tr><tr><td rowspan=1 colspan=4>Total ersattning enligt bifogat värderingsprotokoll:</td><td rowspan=1 colspan=1>1 395 kr</td></tr><tr><td rowspan=1 colspan=3>Utanordning</td><td rowspan=1 colspan=1>Datum191205</td><td rowspan=1 colspan=1>SignaturCA</td></tr></table>"
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    130,
+                    2022,
+                    1475,
+                    2022,
+                    1475,
+                    2128,
+                    130,
+                    2128
+                ],
+                "score": 0.954
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    128,
+                    1640,
+                    1479,
+                    1640,
+                    1479,
+                    1720,
+                    128,
+                    1720
+                ],
+                "score": 0.946
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    1182,
+                    67,
+                    1526,
+                    67,
+                    1526,
+                    145,
+                    1182,
+                    145
+                ],
+                "score": 0.942
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    132,
+                    1538,
+                    1474,
+                    1538,
+                    1474,
+                    1619,
+                    132,
+                    1619
+                ],
+                "score": 0.927
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    140,
+                    1411,
+                    1475,
+                    1411,
+                    1475,
+                    1463,
+                    140,
+                    1463
+                ],
+                "score": 0.92
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    1234,
+                    2273,
+                    1471,
+                    2273,
+                    1471,
+                    2298,
+                    1234,
+                    2298
+                ],
+                "score": 0.91
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    121,
+                    1819,
+                    1475,
+                    1819,
+                    1475,
+                    1921,
+                    121,
+                    1921
+                ],
+                "score": 0.907
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    155,
+                    1487,
+                    1353,
+                    1487,
+                    1353,
+                    1517,
+                    155,
+                    1517
+                ],
+                "score": 0.896
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    153,
+                    1922,
+                    1476,
+                    1922,
+                    1476,
+                    2000,
+                    153,
+                    2000
+                ],
+                "score": 0.893
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    137,
+                    1255,
+                    457,
+                    1255,
+                    457,
+                    1282,
+                    137,
+                    1282
+                ],
+                "score": 0.865
+            },
+            {
+                "category_id": 7,
+                "poly": [
+                    185,
+                    1189,
+                    1329,
+                    1189,
+                    1329,
+                    1235,
+                    185,
+                    1235
+                ],
+                "score": 0.844
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    801,
+                    2246,
+                    849,
+                    2246,
+                    849,
+                    2267,
+                    801,
+                    2267
+                ],
+                "score": 0.798
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    147,
+                    1768,
+                    1078,
+                    1768,
+                    1078,
+                    1796,
+                    147,
+                    1796
+                ],
+                "score": 0.775
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    186,
+                    185,
+                    1239,
+                    185,
+                    1239,
+                    226,
+                    186,
+                    226
+                ],
+                "score": 0.722
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    133,
+                    1739,
+                    318,
+                    1739,
+                    318,
+                    1765,
+                    133,
+                    1765
+                ],
+                "score": 0.672
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    37,
+                    175,
+                    155,
+                    175,
+                    155,
+                    216,
+                    37,
+                    216
+                ],
+                "score": 0.635
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    195,
+                    242,
+                    779,
+                    242,
+                    779,
+                    274,
+                    195,
+                    274
+                ],
+                "score": 0.386
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    168,
+                    180,
+                    198,
+                    180,
+                    198,
+                    216,
+                    168,
+                    216
+                ],
+                "score": 0.127
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    133,
+                    1739,
+                    318,
+                    1739,
+                    318,
+                    1765,
+                    133,
+                    1765
+                ],
+                "score": 0.115
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    187,
+                    185,
+                    1247,
+                    185,
+                    1247,
+                    225,
+                    187,
+                    225
+                ],
+                "score": 0.114
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    129,
+                    1736,
+                    168,
+                    1736,
+                    168,
+                    1766,
+                    129,
+                    1766
+                ],
+                "score": 0.66,
+                "latex": "\\$ 2"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    387,
+                    1435,
+                    469,
+                    1435,
+                    469,
+                    1461,
+                    387,
+                    1461
+                ],
+                "score": 0.56,
+                "latex": "0 \\times 0 m"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    301,
+                    1944,
+                    345,
+                    1944,
+                    345,
+                    1969,
+                    301,
+                    1969
+                ],
+                "score": 0.49,
+                "latex": "\\beta \\ m"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    859,
+                    1310,
+                    925,
+                    1310,
+                    925,
+                    1336,
+                    859,
+                    1336
+                ],
+                "score": 0.31,
+                "latex": "\\mathbf { 2 4 k } \\mathbf { 1 }"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    617,
+                    1209,
+                    644,
+                    1209,
+                    644,
+                    1234,
+                    617,
+                    1234
+                ],
+                "score": 0.28,
+                "latex": "^ { ( 3 ) }"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1179.0,
+                    82.0,
+                    1440.0,
+                    82.0,
+                    1440.0,
+                    127.0,
+                    1179.0,
+                    127.0
+                ],
+                "score": 0.993,
+                "text": "VATTENFALL"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1230.0,
+                    2267.0,
+                    1474.0,
+                    2267.0,
+                    1474.0,
+                    2303.0,
+                    1230.0,
+                    2303.0
+                ],
+                "score": 0.973,
+                "text": "Version 2018 (2017.12.20)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    132.0,
+                    1247.0,
+                    462.0,
+                    1247.0,
+                    462.0,
+                    1290.0,
+                    132.0,
+                    1290.0
+                ],
+                "score": 0.938,
+                "text": "51 Upplatelsens omfattning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    193.25,
+                    1185.0,
+                    1333.25,
+                    1185.0,
+                    1333.25,
+                    1214.0,
+                    193.25,
+                    1214.0
+                ],
+                "score": 0.516,
+                "text": "Srskidrnviderseluaal0ieotsau20)peliael"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    193.75,
+                    1205.0,
+                    1303.75,
+                    1205.0,
+                    1303.75,
+                    1238.0,
+                    193.75,
+                    1238.0
+                ],
+                "score": 0.52,
+                "text": "Omerinoauaeersie()prcauelpriseles nieringpal5."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    801.0,
+                    2242.0,
+                    848.0,
+                    2242.0,
+                    848.0,
+                    2273.0,
+                    801.0,
+                    2273.0
+                ],
+                "score": 0.768,
+                "text": "-1-"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    175.0,
+                    1218.0,
+                    175.0,
+                    1218.0,
+                    235.0,
+                    186.0,
+                    235.0
+                ],
+                "score": 0.976,
+                "text": "Markupplatelseavtal avseende elektrisk starkstromsanlaggning"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    1215.0,
+                    198.0,
+                    1231.0,
+                    198.0,
+                    1231.0,
+                    222.0,
+                    1215.0,
+                    222.0
+                ],
+                "score": 0.156,
+                "text": "2"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    169.0,
+                    1735.0,
+                    320.0,
+                    1735.0,
+                    320.0,
+                    1770.0,
+                    169.0,
+                    1770.0
+                ],
+                "score": 0.982,
+                "text": "Föreskrifter"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    36.0,
+                    166.0,
+                    157.0,
+                    166.0,
+                    157.0,
+                    220.0,
+                    36.0,
+                    220.0
+                ],
+                "score": 0.889,
+                "text": "D-2"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    165.0,
+                    177.0,
+                    203.0,
+                    177.0,
+                    203.0,
+                    217.0,
+                    165.0,
+                    217.0
+                ],
+                "score": 0.114,
+                "text": "0"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.0,
+                    175.0,
+                    1240.0,
+                    175.0,
+                    1240.0,
+                    235.0,
+                    183.0,
+                    235.0
+                ],
+                "score": 0.969,
+                "text": "Markupplatelseavtal avseende elektrisk starkstromsanlaggning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    132.0,
+                    1278.0,
+                    164.0,
+                    1278.0,
+                    164.0,
+                    1312.0,
+                    132.0,
+                    1312.0
+                ],
+                "score": 0.904,
+                "text": "a)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    189.0,
+                    1277.0,
+                    1481.0,
+                    1277.0,
+                    1481.0,
+                    1318.0,
+                    189.0,
+                    1318.0
+                ],
+                "score": 0.807,
+                "text": "Fastighetsagaren medger ledningsagaren rtt at anligga och foral framtid bibhala samtat id behov foyaelektrisk"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    189.0,
+                    1306.0,
+                    1479.0,
+                    1306.0,
+                    1479.0,
+                    1341.0,
+                    189.0,
+                    1341.0
+                ],
+                "score": 0.758,
+                "text": "stakstromslening(markabel) meden systemspnning avhogst24k.jmte tilhorandeanordingar ssom transfoatorer"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    188.0,
+                    1329.0,
+                    1481.0,
+                    1329.0,
+                    1481.0,
+                    1369.0,
+                    188.0,
+                    1369.0
+                ],
+                "score": 0.484,
+                "text": "kablsoaieiasusigntasti"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    189.0,
+                    1357.0,
+                    1300.0,
+                    1357.0,
+                    1300.0,
+                    1392.0,
+                    189.0,
+                    1392.0
+                ],
+                "score": 0.897,
+                "text": "som ledningen redovisas pa bifogad kartskiss och/eller blivit utstakadpá marken alt nedan benamnt ledningen."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    127.0,
+                    2019.0,
+                    155.0,
+                    2019.0,
+                    155.0,
+                    2046.0,
+                    127.0,
+                    2046.0
+                ],
+                "score": 0.876,
+                "text": "c)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    182.75,
+                    2019.0,
+                    1476.75,
+                    2019.0,
+                    1476.75,
+                    2056.0,
+                    182.75,
+                    2056.0
+                ],
+                "score": 0.656,
+                "text": "Fastighetarenrintetaneningarensd idinmtademedivandvatrd somkanmedfra farafien"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    182.75,
+                    2043.5,
+                    1474.75,
+                    2043.5,
+                    1474.75,
+                    2084.0,
+                    182.75,
+                    2084.0
+                ],
+                "score": 0.683,
+                "text": "eller sommdfr aledningenanvallaskadap personeler eendom. Exempel sdngrdr atflard， sprng"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    182.75,
+                    2071.0,
+                    1476.75,
+                    2071.0,
+                    1476.75,
+                    2108.0,
+                    182.75,
+                    2108.0
+                ],
+                "score": 0.774,
+                "text": "grava,schaktaller pa annat stndra marknivn.Viduorandeav sdanatgard aligger det ledningsgaren at rdovisa"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    181.0,
+                    2096.0,
+                    1180.0,
+                    2096.0,
+                    1180.0,
+                    2131.0,
+                    181.0,
+                    2131.0
+                ],
+                "score": 0.954,
+                "text": "iedningens strackning och att genom sakkunnig personal anvisa eller vidta lampliga skyddsatgarder."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    132.0,
+                    1638.0,
+                    161.0,
+                    1638.0,
+                    161.0,
+                    1665.0,
+                    132.0,
+                    1665.0
+                ],
+                "score": 0.85,
+                "text": "d)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    187.0,
+                    1638.0,
+                    1476.0,
+                    1638.0,
+                    1476.0,
+                    1673.0,
+                    187.0,
+                    1673.0
+                ],
+                "score": 0.728,
+                "text": "Fastighetsgarenmedger ledninggaren rtaterforderligomaningga tiltrdetileendomen frledningens anlande"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    189.0,
+                    1663.0,
+                    1477.0,
+                    1663.0,
+                    1477.0,
+                    1698.5,
+                    189.0,
+                    1698.5
+                ],
+                "score": 0.616,
+                "text": "tilsunderhreparationchfyelsearidnngarnharatdenmndeanseuanvsentiolgeneti"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    1687.5,
+                    853.0,
+                    1687.5,
+                    853.0,
+                    1723.0,
+                    186.0,
+                    1723.0
+                ],
+                "score": 0.941,
+                "text": "av fastighetsagaren givna anvisningar betraffande rätten at ta vag."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    133.0,
+                    1537.0,
+                    162.0,
+                    1537.0,
+                    162.0,
+                    1564.0,
+                    133.0,
+                    1564.0
+                ],
+                "score": 0.874,
+                "text": "c)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    187.0,
+                    1557.0,
+                    1481.0,
+                    1557.0,
+                    1481.0,
+                    1600.0,
+                    187.0,
+                    1600.0
+                ],
+                "score": 0.696,
+                "text": "ellerkan bli hinderli frledningensanlggnde tilsynunderharparation， foyelseoch drit.Atgrdera r ufrsmed"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    190.0,
+                    1537.5,
+                    1479.0,
+                    1537.5,
+                    1479.0,
+                    1568.5,
+                    190.0,
+                    1568.5
+                ],
+                "score": 0.803,
+                "text": "Fastighetsgaren medger ledningsgaren rat atpa egendomen nu och framdeles fllaller kvista trdoch vegetation somr"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    189.0,
+                    1585.5,
+                    1372.0,
+                    1585.5,
+                    1372.0,
+                    1621.0,
+                    189.0,
+                    1621.0
+                ],
+                "score": 0.738,
+                "text": "intervall somr anpassadetillet rationelltunderha. Fallda trdochfalldvegtationfrbli fastighetsgarensegendm."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    132.0,
+                    1404.0,
+                    165.0,
+                    1404.0,
+                    165.0,
+                    1439.0,
+                    132.0,
+                    1439.0
+                ],
+                "score": 0.917,
+                "text": "b)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    190.0,
+                    1429.0,
+                    386.0,
+                    1429.0,
+                    386.0,
+                    1467.0,
+                    190.0,
+                    1467.0
+                ],
+                "score": 0.962,
+                "text": "(schaktbredd) samt"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    470.0,
+                    1429.0,
+                    713.0,
+                    1429.0,
+                    713.0,
+                    1467.0,
+                    470.0,
+                    1467.0
+                ],
+                "score": 0.965,
+                "text": "for transformatorstation."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    187.0,
+                    1405.0,
+                    1480.0,
+                    1405.0,
+                    1480.0,
+                    1444.0,
+                    187.0,
+                    1444.0
+                ],
+                "score": 0.787,
+                "text": "Fasighetsgaren uppater for ledningen et utrymmeom4mhorisontll breddiskogsmark (skgsgata),1 m bredivrig mark"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    129.0,
+                    1812.0,
+                    162.0,
+                    1812.0,
+                    162.0,
+                    1845.0,
+                    129.0,
+                    1845.0
+                ],
+                "score": 0.865,
+                "text": "b)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    1887.0,
+                    400.0,
+                    1887.0,
+                    400.0,
+                    1924.0,
+                    185.0,
+                    1924.0
+                ],
+                "score": 0.955,
+                "text": "transfommatorstation."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.0,
+                    1814.0,
+                    1478.0,
+                    1814.0,
+                    1478.0,
+                    1853.5,
+                    183.0,
+                    1853.5
+                ],
+                "score": 0.705,
+                "text": "Fastighetsaren r intendramakanvndningenuppfra byggdller annananlninganornaupplagelle iknans"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    185.0,
+                    1842.5,
+                    1476.0,
+                    1842.5,
+                    1476.0,
+                    1877.0,
+                    185.0,
+                    1877.0
+                ],
+                "score": 0.46,
+                "text": "ateinaeetsreennes"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.0,
+                    1865.0,
+                    1478.0,
+                    1865.0,
+                    1478.0,
+                    1905.0,
+                    183.0,
+                    1905.0
+                ],
+                "score": 0.885,
+                "text": "tecknande gllande skerhetsforeskriter far inte brǎnnbar byggnadsdel eller upplag finas nǎmare n 5 m fran"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    190.0,
+                    1482.0,
+                    1356.0,
+                    1482.0,
+                    1356.0,
+                    1521.0,
+                    190.0,
+                    1521.0
+                ],
+                "score": 0.855,
+                "text": "For ledningens anlggande tilsyn, underhall,reparationoch foyelse, far vid varje tilfale erforderligt omradenytias."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    1919.0,
+                    1477.0,
+                    1919.0,
+                    1477.0,
+                    1953.0,
+                    186.0,
+                    1953.0
+                ],
+                "score": 0.881,
+                "text": "Byggnad eler annan anlggning far inte utan ledningsagarens medgivande och mnade instrukioner uppforas pa nare"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.0,
+                    1944.0,
+                    1477.0,
+                    1944.0,
+                    1477.0,
+                    1980.0,
+                    183.0,
+                    1980.0
+                ],
+                "score": 0.579,
+                "text": "avstndnm frnmaabentehellrutan eninarens mdivandepplageleikadeaors ellearkin"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    184.75,
+                    1969.5,
+                    871.75,
+                    1969.5,
+                    871.75,
+                    2000.0,
+                    184.75,
+                    2000.0
+                ],
+                "score": 0.942,
+                "text": "andras ovanfor markkabein sa att reparation och underhal forsvaras."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    136.0,
+                    1760.0,
+                    1084.0,
+                    1760.0,
+                    1084.0,
+                    1804.0,
+                    136.0,
+                    1804.0
+                ],
+                "score": 0.919,
+                "text": ") Ledningsǎgaren ska utova rätigheterna sa at egendomen inte betungas mer an nǒdvandi"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    195.0,
+                    237.0,
+                    425.0,
+                    237.0,
+                    425.0,
+                    282.0,
+                    195.0,
+                    282.0
+                ],
+                "score": 0.953,
+                "text": "imark (jordkabel)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    635.0,
+                    242.0,
+                    784.0,
+                    242.0,
+                    784.0,
+                    279.0,
+                    635.0,
+                    279.0
+                ],
+                "score": 0.966,
+                "text": "nätstation"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    169.0,
+                    1735.0,
+                    320.0,
+                    1735.0,
+                    320.0,
+                    1770.0,
+                    169.0,
+                    1770.0
+                ],
+                "score": 0.982,
+                "text": "Föreskrifter"
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1656,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    189,
+                    1544,
+                    1470,
+                    1544,
+                    1470,
+                    1648,
+                    189,
+                    1648
+                ],
+                "score": 0.966
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    186,
+                    1801,
+                    1468,
+                    1801,
+                    1468,
+                    1900,
+                    186,
+                    1900
+                ],
+                "score": 0.966
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    193,
+                    343,
+                    1479,
+                    343,
+                    1479,
+                    447,
+                    193,
+                    447
+                ],
+                "score": 0.963
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    177,
+                    1672,
+                    1469,
+                    1672,
+                    1469,
+                    1749,
+                    177,
+                    1749
+                ],
+                "score": 0.951
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    172,
+                    879,
+                    1476,
+                    879,
+                    1476,
+                    959,
+                    172,
+                    959
+                ],
+                "score": 0.947
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    1177,
+                    57,
+                    1524,
+                    57,
+                    1524,
+                    134,
+                    1177,
+                    134
+                ],
+                "score": 0.946
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    141,
+                    701,
+                    1480,
+                    701,
+                    1480,
+                    779,
+                    141,
+                    779
+                ],
+                "score": 0.94
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    153,
+                    1443,
+                    1467,
+                    1443,
+                    1467,
+                    1520,
+                    153,
+                    1520
+                ],
+                "score": 0.938
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    181,
+                    470,
+                    1477,
+                    470,
+                    1477,
+                    523,
+                    181,
+                    523
+                ],
+                "score": 0.938
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    183,
+                    803,
+                    1472,
+                    803,
+                    1472,
+                    857,
+                    183,
+                    857
+                ],
+                "score": 0.938
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    157,
+                    574,
+                    1479,
+                    574,
+                    1479,
+                    650,
+                    157,
+                    650
+                ],
+                "score": 0.937
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    161,
+                    166,
+                    1482,
+                    166,
+                    1482,
+                    244,
+                    161,
+                    244
+                ],
+                "score": 0.937
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    142,
+                    1289,
+                    1462,
+                    1289,
+                    1462,
+                    1342,
+                    142,
+                    1342
+                ],
+                "score": 0.933
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    132,
+                    1186,
+                    1476,
+                    1186,
+                    1476,
+                    1265,
+                    132,
+                    1265
+                ],
+                "score": 0.929
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    130,
+                    266,
+                    1483,
+                    266,
+                    1483,
+                    321,
+                    130,
+                    321
+                ],
+                "score": 0.929
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    185,
+                    1927,
+                    1466,
+                    1927,
+                    1466,
+                    1979,
+                    185,
+                    1979
+                ],
+                "score": 0.918
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    193,
+                    1134,
+                    1103,
+                    1134,
+                    1103,
+                    1163,
+                    193,
+                    1163
+                ],
+                "score": 0.908
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    138,
+                    1365,
+                    1436,
+                    1365,
+                    1436,
+                    1395,
+                    138,
+                    1395
+                ],
+                "score": 0.906
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    123,
+                    981,
+                    1473,
+                    981,
+                    1473,
+                    1057,
+                    123,
+                    1057
+                ],
+                "score": 0.905
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    1229,
+                    2262,
+                    1464,
+                    2262,
+                    1464,
+                    2287,
+                    1229,
+                    2287
+                ],
+                "score": 0.904
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    138,
+                    2030,
+                    1469,
+                    2030,
+                    1469,
+                    2080,
+                    138,
+                    2080
+                ],
+                "score": 0.892
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    149,
+                    1059,
+                    1475,
+                    1059,
+                    1475,
+                    1111,
+                    149,
+                    1111
+                ],
+                "score": 0.867
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    126,
+                    1997,
+                    447,
+                    1997,
+                    447,
+                    2026,
+                    126,
+                    2026
+                ],
+                "score": 0.859
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    137,
+                    674,
+                    309,
+                    674,
+                    309,
+                    700,
+                    137,
+                    700
+                ],
+                "score": 0.848
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    797,
+                    2233,
+                    841,
+                    2233,
+                    841,
+                    2257,
+                    797,
+                    2257
+                ],
+                "score": 0.839
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    137,
+                    546,
+                    287,
+                    546,
+                    287,
+                    572,
+                    137,
+                    572
+                ],
+                "score": 0.789
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    135,
+                    1414,
+                    411,
+                    1414,
+                    411,
+                    1440,
+                    135,
+                    1440
+                ],
+                "score": 0.748
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    130,
+                    1770,
+                    456,
+                    1770,
+                    456,
+                    1797,
+                    130,
+                    1797
+                ],
+                "score": 0.7
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    38,
+                    164,
+                    157,
+                    164,
+                    157,
+                    201,
+                    38,
+                    201
+                ],
+                "score": 0.399
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    130,
+                    1770,
+                    456,
+                    1770,
+                    456,
+                    1797,
+                    130,
+                    1797
+                ],
+                "score": 0.225
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    135,
+                    1414,
+                    411,
+                    1414,
+                    411,
+                    1440,
+                    135,
+                    1440
+                ],
+                "score": 0.147
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    1081,
+                    1802,
+                    1130,
+                    1802,
+                    1130,
+                    1830,
+                    1081,
+                    1830
+                ],
+                "score": 0.79,
+                "latex": "1 4 \\ S"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    596,
+                    904,
+                    638,
+                    904,
+                    638,
+                    933,
+                    596,
+                    933
+                ],
+                "score": 0.69,
+                "latex": "\\$ 3"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    1086,
+                    882,
+                    1182,
+                    882,
+                    1182,
+                    911,
+                    1086,
+                    911
+                ],
+                "score": 0.64,
+                "latex": "4 k a p 4 \\ S"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    534,
+                    575,
+                    547,
+                    575,
+                    547,
+                    597,
+                    534,
+                    597
+                ],
+                "score": 0.62,
+                "latex": "\\mathrm { i }"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    129,
+                    1410,
+                    169,
+                    1410,
+                    169,
+                    1441,
+                    129,
+                    1441
+                ],
+                "score": 0.46,
+                "latex": "\\beta 5"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    675,
+                    1596,
+                    717,
+                    1596,
+                    717,
+                    1624,
+                    675,
+                    1624
+                ],
+                "score": 0.42,
+                "latex": "k \\tilde { \\sigma } \\tilde { p }"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    812,
+                    574,
+                    830,
+                    574,
+                    830,
+                    601,
+                    812,
+                    601
+                ],
+                "score": 0.4,
+                "latex": "5"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    133,
+                    671,
+                    172,
+                    671,
+                    172,
+                    701,
+                    133,
+                    701
+                ],
+                "score": 0.34,
+                "latex": "\\$ 4"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1177.0,
+                    73.0,
+                    1435.0,
+                    73.0,
+                    1435.0,
+                    115.0,
+                    1177.0,
+                    115.0
+                ],
+                "score": 0.99,
+                "text": "VATTENFALL"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1224.0,
+                    2256.0,
+                    1469.0,
+                    2256.0,
+                    1469.0,
+                    2293.0,
+                    1224.0,
+                    2293.0
+                ],
+                "score": 0.95,
+                "text": "Version 2018 (2017.12.20)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    121.0,
+                    1990.0,
+                    453.0,
+                    1990.0,
+                    453.0,
+                    2034.0,
+                    121.0,
+                    2034.0
+                ],
+                "score": 0.961,
+                "text": "57 Överlatelse av ledningen"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    173.0,
+                    669.0,
+                    312.0,
+                    669.0,
+                    312.0,
+                    707.0,
+                    173.0,
+                    707.0
+                ],
+                "score": 0.898,
+                "text": "Ersattning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    790.0,
+                    2227.0,
+                    849.0,
+                    2227.0,
+                    849.0,
+                    2266.0,
+                    790.0,
+                    2266.0
+                ],
+                "score": 0.897,
+                "text": "-2-"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    131.0,
+                    542.0,
+                    289.0,
+                    542.0,
+                    289.0,
+                    577.0,
+                    131.0,
+                    577.0
+                ],
+                "score": 0.828,
+                "text": "s3 Tiltrade"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    170.0,
+                    1406.0,
+                    416.0,
+                    1406.0,
+                    416.0,
+                    1448.0,
+                    170.0,
+                    1448.0
+                ],
+                "score": 0.998,
+                "text": "Virkeshantering mm."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    123.0,
+                    1762.0,
+                    462.0,
+                    1762.0,
+                    462.0,
+                    1807.0,
+                    123.0,
+                    1807.0
+                ],
+                "score": 0.924,
+                "text": "s6 Ledningsförrättning m.m."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    36.0,
+                    155.0,
+                    162.0,
+                    155.0,
+                    162.0,
+                    209.0,
+                    36.0,
+                    209.0
+                ],
+                "score": 0.852,
+                "text": "D-2"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    1612.0,
+                    693.0,
+                    1612.0,
+                    693.0,
+                    1654.0,
+                    185.0,
+                    1654.0
+                ],
+                "score": 0.914,
+                "text": "för trad som fals utanfor engangsersa skogsgata."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.75,
+                    1541.0,
+                    1473.75,
+                    1541.0,
+                    1473.75,
+                    1576.0,
+                    186.75,
+                    1576.0
+                ],
+                "score": 0.81,
+                "text": "Om ledningsgaren inte mar erbjudandeomawerkning ellerom fastighetsgaren inteatar sigat sara for averkningen"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.25,
+                    1567.0,
+                    1472.25,
+                    1567.0,
+                    1472.25,
+                    1602.5,
+                    185.25,
+                    1602.5
+                ],
+                "score": 0.578,
+                "text": "sararedinggarnfraekningeneingarenvensarafiratandetvike.Ledinsarenadid"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    1592.0,
+                    1474.0,
+                    1592.0,
+                    1474.0,
+                    1627.0,
+                    185.0,
+                    1627.0
+                ],
+                "score": 0.609,
+                "text": "innanerkingnufrsmaerandeompavietVidndelsroiningsado snteruande masedast"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.0,
+                    1867.0,
+                    279.0,
+                    1867.0,
+                    279.0,
+                    1902.0,
+                    183.0,
+                    1902.0
+                ],
+                "score": 0.979,
+                "text": "bestand."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.75,
+                    1796.5,
+                    1468.75,
+                    1796.5,
+                    1468.75,
+                    1831.5,
+                    183.75,
+                    1831.5
+                ],
+                "score": 0.715,
+                "text": "Dettaatal r ggsirundr beslutom ledningsrtssomverenskommelseenli14frstasycket ledninsrttslaen."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    182.0,
+                    1821.5,
+                    1472.0,
+                    1821.5,
+                    1472.0,
+                    1857.5,
+                    182.0,
+                    1857.5
+                ],
+                "score": 0.585,
+                "text": "Avtaletaeatitinskivassom seitt.nanedinsesutt uniakatelleraaletinsrits fstigetarn"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    179.0,
+                    1845.5,
+                    1473.0,
+                    1845.5,
+                    1473.0,
+                    1884.5,
+                    179.0,
+                    1884.5
+                ],
+                "score": 0.771,
+                "text": "skyldig at vidveratelse eller upplatelseavegendomen eller av ledningen berrddel drav gora forbehall om deta avtals"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    192.0,
+                    339.0,
+                    1481.0,
+                    339.0,
+                    1481.0,
+                    379.0,
+                    192.0,
+                    379.0
+                ],
+                "score": 0.783,
+                "text": "Markabel skaiskogsmark forlaggas pa sadant satattnormala skogsbruksmetoder id idpunkten for ledningensanlggande"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    192.0,
+                    361.0,
+                    1483.0,
+                    361.0,
+                    1483.0,
+                    408.0,
+                    192.0,
+                    408.0
+                ],
+                "score": 0.702,
+                "text": "efer anlandet ska kunnautovasividmarkkabelnoch noala transporter ska knnaskevermarkkabelnDa besria"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    191.0,
+                    390.0,
+                    1483.0,
+                    390.0,
+                    1483.0,
+                    430.0,
+                    191.0,
+                    430.0
+                ],
+                "score": 0.569,
+                "text": "makalandenikobinatond sbrukstrdr ssomuna trnspoerinbra markbeppebariseraratt"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    192.0,
+                    416.0,
+                    996.0,
+                    416.0,
+                    996.0,
+                    454.0,
+                    192.0,
+                    454.0
+                ],
+                "score": 0.946,
+                "text": "skadas ska dock atgarderna omedelbart avbrytas och ledningsǎgaren kontaktas."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    184.0,
+                    1714.0,
+                    445.0,
+                    1714.0,
+                    445.0,
+                    1755.0,
+                    184.0,
+                    1755.0
+                ],
+                "score": 0.971,
+                "text": "markanvandning uppstar."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.75,
+                    1668.0,
+                    1473.75,
+                    1668.0,
+                    1473.75,
+                    1703.0,
+                    183.75,
+                    1703.0
+                ],
+                "score": 0.856,
+                "text": "Nar ledningsgaren ffor awerkningen aliger det denne at tilse at vike och averkningsrester inte kvarlmnas inom"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.75,
+                    1695.0,
+                    1470.75,
+                    1695.0,
+                    1470.75,
+                    1729.0,
+                    183.75,
+                    1729.0
+                ],
+                "score": 0.861,
+                "text": "fastigheten sa at fara for insektsangrepp,hinder for vikestranspoter eler mer an obetydlig olgenhet for pagaende"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    189.0,
+                    925.0,
+                    1365.0,
+                    925.0,
+                    1365.0,
+                    967.0,
+                    189.0,
+                    967.0
+                ],
+                "score": 0.841,
+                "text": "enligt expropriationslagen utga pa det upprknade beloppet fran och med tiltdesdagen tiloch med betalningsdagen."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    189.0,
+                    877.0,
+                    1479.0,
+                    877.0,
+                    1479.0,
+                    912.0,
+                    189.0,
+                    912.0
+                ],
+                "score": 0.542,
+                "text": "Har ilinerninneaerinitpprkasenipeatisan"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    191.0,
+                    903.5,
+                    1479.0,
+                    903.5,
+                    1479.0,
+                    936.0,
+                    191.0,
+                    936.0
+                ],
+                "score": 0.566,
+                "text": "dag ilrdetseddndefineniliuntenrfadavverenskmmelseertninnDrilanta"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    134.0,
+                    700.0,
+                    164.0,
+                    700.0,
+                    164.0,
+                    729.0,
+                    134.0,
+                    729.0
+                ],
+                "score": 0.823,
+                "text": "a)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    192.0,
+                    720.0,
+                    1479.0,
+                    720.0,
+                    1479.0,
+                    762.0,
+                    192.0,
+                    762.0
+                ],
+                "score": 0.896,
+                "text": "grunderna i expropriationslagen. Ersttningen r en engangsersatning som ska beraknas med de varderingsmetoderfr"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    190.0,
+                    746.0,
+                    830.0,
+                    746.0,
+                    830.0,
+                    783.0,
+                    190.0,
+                    783.0
+                ],
+                "score": 0.894,
+                "text": "ledningsintrang som allmant tilmpas vid tidpunkten for tiltrade."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    192.0,
+                    698.5,
+                    1480.0,
+                    698.5,
+                    1480.0,
+                    733.0,
+                    192.0,
+                    733.0
+                ],
+                "score": 0.58,
+                "text": "Ersaninilppltelencfresiedetaalsetalassintrnerincnnerini"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    187.0,
+                    1486.0,
+                    770.0,
+                    1486.0,
+                    770.0,
+                    1526.0,
+                    187.0,
+                    1526.0
+                ],
+                "score": 0.911,
+                "text": "fastighetsagaren at inom skǎlig tid svara for aerkningen."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.75,
+                    1438.5,
+                    1472.75,
+                    1438.5,
+                    1472.75,
+                    1473.5,
+                    185.75,
+                    1473.5
+                ],
+                "score": 0.666,
+                "text": "Ledninggarensminterskidaslranlederannat，mnfoationilastihetsarenmrestneerki"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    184.0,
+                    1465.0,
+                    1473.0,
+                    1465.0,
+                    1473.0,
+                    1499.5,
+                    184.0,
+                    1499.5
+                ],
+                "score": 0.881,
+                "text": "samband med nyanlagning och underhal.Ledningsgaren ska ven,om sá kan ske enligt dennes bedomning,erbjuda"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    191.0,
+                    461.0,
+                    1482.0,
+                    461.0,
+                    1482.0,
+                    508.0,
+                    191.0,
+                    508.0
+                ],
+                "score": 0.879,
+                "text": "Markabel ska inom vǎgomrade fr enskid vag förggas pà sadant stt at nomalt nytiande och underhal av vägen efer"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    191.0,
+                    492.0,
+                    470.0,
+                    492.0,
+                    470.0,
+                    528.0,
+                    191.0,
+                    528.0
+                ],
+                "score": 0.955,
+                "text": "anlaggandet inte forsvaras."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    190.0,
+                    822.0,
+                    1259.0,
+                    822.0,
+                    1259.0,
+                    864.0,
+                    190.0,
+                    864.0
+                ],
+                "score": 0.873,
+                "text": "efter det at overenskommelse om ersattning traffats och erforderlig koncession och ovriga tilstand erhallits."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    191.0,
+                    800.0,
+                    1477.0,
+                    800.0,
+                    1477.0,
+                    834.0,
+                    191.0,
+                    834.0
+                ],
+                "score": 0.801,
+                "text": "Ersatningen ska,savida inte lagartsellerinteckningsfhallandenaegendomen utor hinder,utetalassenast re manader"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    192.0,
+                    568.0,
+                    533.0,
+                    568.0,
+                    533.0,
+                    608.0,
+                    192.0,
+                    608.0
+                ],
+                "score": 0.932,
+                "text": "Ledningsagaren far omedelbart ta"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    548.0,
+                    568.0,
+                    811.0,
+                    568.0,
+                    811.0,
+                    608.0,
+                    548.0,
+                    608.0
+                ],
+                "score": 0.942,
+                "text": "ansprak dei enlighet med"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    831.0,
+                    568.0,
+                    1480.0,
+                    568.0,
+                    1480.0,
+                    608.0,
+                    831.0,
+                    608.0
+                ],
+                "score": 0.922,
+                "text": "1 upplatna rattigheterna. Tiltrade anses ha sket dà anlaggande"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    193.0,
+                    623.0,
+                    668.0,
+                    623.0,
+                    668.0,
+                    653.0,
+                    193.0,
+                    653.0
+                ],
+                "score": 0.987,
+                "text": "samband med staknings- och matningsarbeten."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    191.75,
+                    596.5,
+                    1479.75,
+                    596.5,
+                    1479.75,
+                    630.5,
+                    191.75,
+                    630.5
+                ],
+                "score": 0.615,
+                "text": "avellraverkningforledingenboratMedaerning sadintfrsts boragandeavenstaa trdchveettion"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    167.0,
+                    160.0,
+                    1483.0,
+                    160.0,
+                    1483.0,
+                    201.0,
+                    167.0,
+                    201.0
+                ],
+                "score": 0.585,
+                "text": "Om fasihetsgaresr nmofrndadmaaningcntevsrommar sa syddsatrderanisaseller"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    191.0,
+                    185.0,
+                    1483.0,
+                    185.0,
+                    1483.0,
+                    226.0,
+                    191.0,
+                    226.0
+                ],
+                "score": 0.833,
+                "text": "vidtas av ledningsagaren utan kostnad for fastighetsgaren. Ledningsagaren svarar d aven for de merkostnader som"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    195.0,
+                    216.0,
+                    736.0,
+                    216.0,
+                    736.0,
+                    247.0,
+                    195.0,
+                    247.0
+                ],
+                "score": 0.942,
+                "text": "uppkommer til fölid av de anvisade skyddsátgǎrderna."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    135.0,
+                    1282.0,
+                    164.0,
+                    1282.0,
+                    164.0,
+                    1315.0,
+                    135.0,
+                    1315.0
+                ],
+                "score": 0.769,
+                "text": "1)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    1284.0,
+                    1469.0,
+                    1284.0,
+                    1469.0,
+                    1319.5,
+                    185.0,
+                    1319.5
+                ],
+                "score": 0.912,
+                "text": "Ar egendomen eller del darav som berors av upplatelsen belastad av arrende/nytianderatservitut, ska sarskil"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    187.0,
+                    1310.0,
+                    1308.0,
+                    1310.0,
+                    1308.0,
+                    1345.0,
+                    187.0,
+                    1345.0
+                ],
+                "score": 0.919,
+                "text": "överenskommelse trfas med rattighetshavaren for bestammande av den ersatning som denne ar beratigad til."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    133.0,
+                    1185.0,
+                    162.0,
+                    1185.0,
+                    162.0,
+                    1212.0,
+                    133.0,
+                    1212.0
+                ],
+                "score": 0.886,
+                "text": "c)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    189.0,
+                    1231.0,
+                    751.0,
+                    1231.0,
+                    751.0,
+                    1268.0,
+                    189.0,
+                    1268.0
+                ],
+                "score": 0.957,
+                "text": "elektromagnetiska falt ska behandlas enligt detta stycke."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    189.0,
+                    1185.0,
+                    1476.0,
+                    1185.0,
+                    1476.0,
+                    1217.0,
+                    189.0,
+                    1217.0
+                ],
+                "score": 0.806,
+                "text": "Uppkommerfrga omerstning fr skada som visar sig forsteter engngserstningens slutiga bestmmandeochsomdid"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    187.0,
+                    1209.0,
+                    1476.0,
+                    1209.0,
+                    1476.0,
+                    1244.0,
+                    187.0,
+                    1244.0
+                ],
+                "score": 0.829,
+                "text": "intekunnat forutses ska denna fraga pa fastighetsgarens begaran upptas tilfrhandling.Eventuella skadori folidav"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    136.0,
+                    268.0,
+                    165.0,
+                    268.0,
+                    165.0,
+                    295.0,
+                    136.0,
+                    295.0
+                ],
+                "score": 0.88,
+                "text": "d)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    191.0,
+                    260.0,
+                    1482.0,
+                    260.0,
+                    1482.0,
+                    303.0,
+                    191.0,
+                    303.0
+                ],
+                "score": 0.77,
+                "text": "Markabel skaikerch betesmark folggaspa sdant stat brukingsmetoer avkemark omr nomala vid tidpunkten"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    192.0,
+                    289.0,
+                    1029.0,
+                    289.0,
+                    1029.0,
+                    326.0,
+                    192.0,
+                    326.0
+                ],
+                "score": 0.951,
+                "text": "for ledningens anlaggande efter anlaggandet ska kunna utovas ovanfor markkabeln."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    182.0,
+                    1943.0,
+                    282.0,
+                    1943.0,
+                    282.0,
+                    1979.0,
+                    182.0,
+                    1979.0
+                ],
+                "score": 0.937,
+                "text": "ansokan."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    179.75,
+                    1920.5,
+                    1472.75,
+                    1920.5,
+                    1472.75,
+                    1960.0,
+                    179.75,
+                    1960.0
+                ],
+                "score": 0.898,
+                "text": "Om ledningsagaren med stod av denna bestmmelse ansoker om ledningsrat bitrader fastighetsagaren-/ratighetshavaren"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    190.0,
+                    1128.0,
+                    1104.0,
+                    1128.0,
+                    1104.0,
+                    1169.0,
+                    190.0,
+                    1169.0
+                ],
+                "score": 0.949,
+                "text": "Nar abonnemangsforhalande foreligger ska ersätning dock inte betalas for obetydlig skada."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    126.0,
+                    1357.0,
+                    1435.0,
+                    1357.0,
+                    1435.0,
+                    1402.0,
+                    126.0,
+                    1402.0
+                ],
+                "score": 0.759,
+                "text": "e)Kan overenskommelseom ertning int rlfas, ska isten avgoras vid ledningsforittning omsadan pagarellerav dmstol."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    132.0,
+                    979.0,
+                    165.0,
+                    979.0,
+                    165.0,
+                    1009.0,
+                    132.0,
+                    1009.0
+                ],
+                "score": 0.868,
+                "text": "b)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    190.0,
+                    1030.0,
+                    303.0,
+                    1030.0,
+                    303.0,
+                    1059.0,
+                    190.0,
+                    1059.0
+                ],
+                "score": 0.997,
+                "text": "uppkomst."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    189.0,
+                    981.0,
+                    1476.0,
+                    981.0,
+                    1476.0,
+                    1011.5,
+                    189.0,
+                    1011.5
+                ],
+                "score": 0.658,
+                "text": "For skadr somkanuppkmmavidoch sofidavleningens anlande tilsyunderha,parationochfryele"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    188.0,
+                    1005.0,
+                    1478.0,
+                    1005.0,
+                    1478.0,
+                    1039.5,
+                    188.0,
+                    1039.5
+                ],
+                "score": 0.821,
+                "text": "inteomfattas avengangseratningska eritningbetalas varje srskitfall.Skador ska reglerassnarast eftr skadans"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    179.0,
+                    2044.0,
+                    476.0,
+                    2044.0,
+                    476.0,
+                    2082.0,
+                    179.0,
+                    2082.0
+                ],
+                "score": 0.946,
+                "text": "och skyldigheteri detta aval."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    177.75,
+                    2023.0,
+                    1472.75,
+                    2023.0,
+                    1472.75,
+                    2062.0,
+                    177.75,
+                    2062.0
+                ],
+                "score": 0.668,
+                "text": "Ledninggarenha rt och skylighea idvertelseav leningen sta dennegaren sit stallebetraffande rttigheter"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    188.0,
+                    1075.0,
+                    552.0,
+                    1075.0,
+                    552.0,
+                    1115.0,
+                    188.0,
+                    1115.0
+                ],
+                "score": 0.921,
+                "text": "att sadan ersattning erlagts tidigare."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    188.25,
+                    1052.5,
+                    1477.25,
+                    1052.5,
+                    1477.25,
+                    1092.0,
+                    188.25,
+                    1092.0
+                ],
+                "score": 0.777,
+                "text": "Ersatning fororidig awerkning ska betalas for trad som fls utanfor engangsersatt skogsgataom ledningsgren inte kan visa"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    123.0,
+                    1762.0,
+                    462.0,
+                    1762.0,
+                    462.0,
+                    1807.0,
+                    123.0,
+                    1807.0
+                ],
+                "score": 0.924,
+                "text": "s6 Ledningsförrättning m.m."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    170.0,
+                    1406.0,
+                    416.0,
+                    1406.0,
+                    416.0,
+                    1448.0,
+                    170.0,
+                    1448.0
+                ],
+                "score": 0.998,
+                "text": "Virkeshantering mm."
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1656,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 2,
+                "poly": [
+                    1167,
+                    66,
+                    1511,
+                    66,
+                    1511,
+                    143,
+                    1167,
+                    143
+                ],
+                "score": 0.937
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    192,
+                    522,
+                    1443,
+                    522,
+                    1443,
+                    577,
+                    192,
+                    577
+                ],
+                "score": 0.916
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    130,
+                    398,
+                    1469,
+                    398,
+                    1469,
+                    448,
+                    130,
+                    448
+                ],
+                "score": 0.905
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    1231,
+                    2273,
+                    1467,
+                    2273,
+                    1467,
+                    2297,
+                    1231,
+                    2297
+                ],
+                "score": 0.887
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    536,
+                    988,
+                    613,
+                    988,
+                    613,
+                    1016,
+                    536,
+                    1016
+                ],
+                "score": 0.856
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    166,
+                    178,
+                    1478,
+                    178,
+                    1478,
+                    259,
+                    166,
+                    259
+                ],
+                "score": 0.854
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    426,
+                    860,
+                    1242,
+                    860,
+                    1242,
+                    890,
+                    426,
+                    890
+                ],
+                "score": 0.848
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    203,
+                    961,
+                    368,
+                    961,
+                    368,
+                    1015,
+                    203,
+                    1015
+                ],
+                "score": 0.827
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    798,
+                    2247,
+                    842,
+                    2247,
+                    842,
+                    2270,
+                    798,
+                    2270
+                ],
+                "score": 0.823
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    847,
+                    960,
+                    1427,
+                    960,
+                    1427,
+                    1091,
+                    847,
+                    1091
+                ],
+                "score": 0.817
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    205,
+                    1100,
+                    318,
+                    1100,
+                    318,
+                    1129,
+                    205,
+                    1129
+                ],
+                "score": 0.813
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    843,
+                    1093,
+                    1420,
+                    1093,
+                    1420,
+                    1832,
+                    843,
+                    1832
+                ],
+                "score": 0.713
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    209,
+                    575,
+                    1479,
+                    575,
+                    1479,
+                    811,
+                    209,
+                    811
+                ],
+                "score": 0.62
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    132,
+                    372,
+                    651,
+                    372,
+                    651,
+                    399,
+                    132,
+                    399
+                ],
+                "score": 0.53
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    131,
+                    282,
+                    445,
+                    282,
+                    445,
+                    311,
+                    131,
+                    311
+                ],
+                "score": 0.491
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    130,
+                    156,
+                    439,
+                    156,
+                    439,
+                    183,
+                    130,
+                    183
+                ],
+                "score": 0.457
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    205,
+                    1205,
+                    396,
+                    1205,
+                    396,
+                    1234,
+                    205,
+                    1234
+                ],
+                "score": 0.45
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    131,
+                    282,
+                    445,
+                    282,
+                    445,
+                    311,
+                    131,
+                    311
+                ],
+                "score": 0.376
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    847,
+                    1100,
+                    1410,
+                    1100,
+                    1410,
+                    1225,
+                    847,
+                    1225
+                ],
+                "score": 0.332
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    132,
+                    372,
+                    651,
+                    372,
+                    651,
+                    399,
+                    132,
+                    399
+                ],
+                "score": 0.279
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    345,
+                    472,
+                    392,
+                    472,
+                    392,
+                    501,
+                    345,
+                    501
+                ],
+                "score": 0.2
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    205,
+                    1205,
+                    396,
+                    1205,
+                    396,
+                    1234,
+                    205,
+                    1234
+                ],
+                "score": 0.139
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    41,
+                    1070,
+                    57,
+                    1070,
+                    57,
+                    1086,
+                    41,
+                    1086
+                ],
+                "score": 0.115
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    1184,
+                    985,
+                    1427,
+                    985,
+                    1427,
+                    1090,
+                    1184,
+                    1090
+                ],
+                "score": 0.097
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    125,
+                    281,
+                    167,
+                    281,
+                    167,
+                    313,
+                    125,
+                    313
+                ],
+                "score": 0.27,
+                "latex": "\\$ 9"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    127,
+                    372,
+                    147,
+                    372,
+                    147,
+                    401,
+                    127,
+                    401
+                ],
+                "score": 0.25,
+                "latex": "\\mathfrak { s }"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1166.0,
+                    83.0,
+                    1426.0,
+                    83.0,
+                    1426.0,
+                    128.0,
+                    1166.0,
+                    128.0
+                ],
+                "score": 0.992,
+                "text": "VATTENFALL"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1228.0,
+                    2270.0,
+                    1470.0,
+                    2270.0,
+                    1470.0,
+                    2301.0,
+                    1228.0,
+                    2301.0
+                ],
+                "score": 0.978,
+                "text": "Version 2018 (2017.12.20)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    792.0,
+                    2242.0,
+                    848.0,
+                    2242.0,
+                    848.0,
+                    2278.0,
+                    792.0,
+                    2278.0
+                ],
+                "score": 0.876,
+                "text": "-3-"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    846.0,
+                    957.0,
+                    970.0,
+                    957.0,
+                    970.0,
+                    994.0,
+                    846.0,
+                    994.0
+                ],
+                "score": 0.94,
+                "text": "Markagare"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    848.0,
+                    985.0,
+                    897.0,
+                    985.0,
+                    897.0,
+                    1019.0,
+                    848.0,
+                    1019.0
+                ],
+                "score": 0.922,
+                "text": "Ort:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1190.0,
+                    984.0,
+                    1277.0,
+                    984.0,
+                    1277.0,
+                    1019.0,
+                    1190.0,
+                    1019.0
+                ],
+                "score": 0.976,
+                "text": "Datum:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    855.0,
+                    1021.0,
+                    1122.0,
+                    1021.0,
+                    1122.0,
+                    1081.0,
+                    855.0,
+                    1081.0
+                ],
+                "score": 0.814,
+                "text": "Asker swnel"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1176.0,
+                    1017.0,
+                    1434.0,
+                    1017.0,
+                    1434.0,
+                    1093.0,
+                    1176.0,
+                    1093.0
+                ],
+                "score": 0.997,
+                "text": "20190704"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    203.0,
+                    1096.0,
+                    321.0,
+                    1096.0,
+                    321.0,
+                    1130.0,
+                    203.0,
+                    1130.0
+                ],
+                "score": 0.985,
+                "text": "Underskrift"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    828.0,
+                    1092.0,
+                    1428.0,
+                    1092.0,
+                    1428.0,
+                    1236.0,
+                    828.0,
+                    1236.0
+                ],
+                "score": 0.346,
+                "text": " "
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    207.0,
+                    608.0,
+                    865.0,
+                    608.0,
+                    865.0,
+                    682.0,
+                    207.0,
+                    682.0
+                ],
+                "score": 0.75,
+                "text": "Askersunels by 2antbruh AB"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    962.0,
+                    555.0,
+                    1510.0,
+                    555.0,
+                    1510.0,
+                    699.0,
+                    962.0,
+                    699.0
+                ],
+                "score": 0.639,
+                "text": "Leamerf Eihavsanr"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    245.0,
+                    672.0,
+                    730.0,
+                    672.0,
+                    730.0,
+                    709.0,
+                    245.0,
+                    709.0
+                ],
+                "score": 0.935,
+                "text": "Arrendatorns/ratighetshavdrens namnteckning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    871.0,
+                    669.0,
+                    1409.0,
+                    669.0,
+                    1409.0,
+                    710.0,
+                    871.0,
+                    710.0
+                ],
+                "score": 0.958,
+                "text": "Arrendatorns/rättighetshavarens namnfortydigande"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    378.0,
+                    707.0,
+                    504.0,
+                    707.0,
+                    504.0,
+                    792.0,
+                    378.0,
+                    792.0
+                ],
+                "score": 0.439,
+                "text": "do"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    148.0,
+                    370.0,
+                    654.0,
+                    370.0,
+                    654.0,
+                    402.0,
+                    148.0,
+                    402.0
+                ],
+                "score": 0.96,
+                "text": "10 Forekomst av arrende/nyttjanderattservitut"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    123.0,
+                    150.0,
+                    442.0,
+                    150.0,
+                    442.0,
+                    192.0,
+                    123.0,
+                    192.0
+                ],
+                "score": 0.943,
+                "text": "S 8 Borttagande av ledning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    168.0,
+                    279.0,
+                    449.0,
+                    279.0,
+                    449.0,
+                    314.0,
+                    168.0,
+                    314.0
+                ],
+                "score": 0.935,
+                "text": " Särskilda bestammelser"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    842.0,
+                    1094.0,
+                    1030.0,
+                    1094.0,
+                    1030.0,
+                    1135.0,
+                    842.0,
+                    1135.0
+                ],
+                "score": 0.86,
+                "text": "Gunjlla Hollander"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    835.0,
+                    1113.0,
+                    1419.0,
+                    1113.0,
+                    1419.0,
+                    1230.0,
+                    835.0,
+                    1230.0
+                ],
+                "score": 0.356,
+                "text": "Gn"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    202.0,
+                    1199.0,
+                    399.0,
+                    1199.0,
+                    399.0,
+                    1238.0,
+                    202.0,
+                    1238.0
+                ],
+                "score": 0.929,
+                "text": "Namnfortydligande"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1190.0,
+                    984.0,
+                    1275.0,
+                    984.0,
+                    1275.0,
+                    1019.0,
+                    1190.0,
+                    1019.0
+                ],
+                "score": 0.975,
+                "text": "Datum:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1178.0,
+                    1020.0,
+                    1430.0,
+                    1020.0,
+                    1430.0,
+                    1094.0,
+                    1178.0,
+                    1094.0
+                ],
+                "score": 0.995,
+                "text": "20190704"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    184.0,
+                    517.0,
+                    1441.0,
+                    517.0,
+                    1441.0,
+                    559.0,
+                    184.0,
+                    559.0
+                ],
+                "score": 0.777,
+                "text": "Sasom arrendatorrattighetshavareav ovan nmnda egendom goknner agvi forestaende avtal i ll delariden omattning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    187.0,
+                    549.0,
+                    378.0,
+                    549.0,
+                    378.0,
+                    580.0,
+                    187.0,
+                    580.0
+                ],
+                "score": 0.944,
+                "text": "min/var ratt berors."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    188.0,
+                    393.0,
+                    1471.0,
+                    393.0,
+                    1471.0,
+                    428.0,
+                    188.0,
+                    428.0
+                ],
+                "score": 0.717,
+                "text": "Ar egendomen ller del drav som berors av ledningen elle v anan anlggning som omatasav detaavtal utarrenderadeller"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    420.0,
+                    428.0,
+                    420.0,
+                    428.0,
+                    453.0,
+                    186.0,
+                    453.0
+                ],
+                "score": 0.942,
+                "text": "uppláten pá annat satt?"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    535.0,
+                    985.0,
+                    617.0,
+                    985.0,
+                    617.0,
+                    1019.0,
+                    535.0,
+                    1019.0
+                ],
+                "score": 0.992,
+                "text": "Datum:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    181.0,
+                    172.0,
+                    1474.0,
+                    172.0,
+                    1474.0,
+                    213.0,
+                    181.0,
+                    213.0
+                ],
+                "score": 0.617,
+                "text": "Omdingen peranent ags ur ittr si edngsgarnap siekstd ilseatgendomen efias rnlaa"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    202.0,
+                    1471.0,
+                    202.0,
+                    1471.0,
+                    235.0,
+                    185.0,
+                    235.0
+                ],
+                "score": 0.774,
+                "text": "oidning meddelade ratigheter avseende ledningen.Omdet behovs franalmneler enskid sypunktska ledningsgareni"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    184.0,
+                    228.0,
+                    921.0,
+                    228.0,
+                    921.0,
+                    262.0,
+                    184.0,
+                    262.0
+                ],
+                "score": 0.951,
+                "text": "samband hammed tilse att ledningen med tilhörande anordningar tas bort."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    418.0,
+                    857.0,
+                    1246.0,
+                    857.0,
+                    1246.0,
+                    894.0,
+                    418.0,
+                    894.0
+                ],
+                "score": 0.968,
+                "text": "av detta avtal har tva likalydande exemplar upprattats och utvaxlats mellan parterna"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    200.0,
+                    957.0,
+                    372.0,
+                    957.0,
+                    372.0,
+                    994.0,
+                    200.0,
+                    994.0
+                ],
+                "score": 0.963,
+                "text": "Ledningsägare"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    202.0,
+                    986.0,
+                    253.0,
+                    986.0,
+                    253.0,
+                    1018.0,
+                    202.0,
+                    1018.0
+                ],
+                "score": 0.916,
+                "text": "Ort:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    168.0,
+                    279.0,
+                    449.0,
+                    279.0,
+                    449.0,
+                    314.0,
+                    168.0,
+                    314.0
+                ],
+                "score": 0.935,
+                "text": " Särskilda bestammelser"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    202.0,
+                    1199.0,
+                    399.0,
+                    1199.0,
+                    399.0,
+                    1238.0,
+                    202.0,
+                    1238.0
+                ],
+                "score": 0.929,
+                "text": "Namnfortydligande"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    148.0,
+                    370.0,
+                    654.0,
+                    370.0,
+                    654.0,
+                    402.0,
+                    148.0,
+                    402.0
+                ],
+                "score": 0.96,
+                "text": "10 Forekomst av arrende/nyttjanderattservitut"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    337.0,
+                    461.0,
+                    404.0,
+                    461.0,
+                    404.0,
+                    513.0,
+                    337.0,
+                    513.0
+                ],
+                "score": 0.854,
+                "text": "Nejl"
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1656,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 3,
+                "poly": [
+                    186,
+                    196,
+                    1459,
+                    196,
+                    1459,
+                    2150,
+                    186,
+                    2150
+                ],
+                "score": 0.944
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    12,
+                    190,
+                    168,
+                    190,
+                    168,
+                    227,
+                    12,
+                    227
+                ],
+                "score": 0.126
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    392,
+                    2163,
+                    510,
+                    2163,
+                    510,
+                    2190,
+                    392,
+                    2190
+                ],
+                "score": 0.11
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    176,
+                    2160,
+                    284,
+                    2160,
+                    284,
+                    2187,
+                    176,
+                    2187
+                ],
+                "score": 0.104
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    179.0,
+                    182.0,
+                    1468.0,
+                    182.0,
+                    1468.0,
+                    234.0,
+                    179.0,
+                    234.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    724.0,
+                    232.0,
+                    760.0,
+                    232.0,
+                    760.0,
+                    255.0,
+                    724.0,
+                    255.0
+                ],
+                "score": 0.533,
+                "text": "5:1"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    413.0,
+                    257.0,
+                    451.0,
+                    257.0,
+                    451.0,
+                    289.0,
+                    413.0,
+                    289.0
+                ],
+                "score": 0.618,
+                "text": "S3"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    366.0,
+                    794.0,
+                    404.0,
+                    794.0,
+                    404.0,
+                    818.0,
+                    366.0,
+                    818.0
+                ],
+                "score": 0.935,
+                "text": "1:31"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    426.0,
+                    1340.0,
+                    456.0,
+                    1340.0,
+                    456.0,
+                    1363.0,
+                    426.0,
+                    1363.0
+                ],
+                "score": 0.983,
+                "text": "15"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    928.0,
+                    1344.0,
+                    962.0,
+                    1344.0,
+                    962.0,
+                    1368.0,
+                    928.0,
+                    1368.0
+                ],
+                "score": 0.866,
+                "text": "5:6"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    814.0,
+                    1383.0,
+                    868.0,
+                    1383.0,
+                    868.0,
+                    1434.0,
+                    814.0,
+                    1434.0
+                ],
+                "score": 0.738,
+                "text": "回"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    546.0,
+                    1903.0,
+                    576.0,
+                    1903.0,
+                    576.0,
+                    1926.0,
+                    546.0,
+                    1926.0
+                ],
+                "score": 0.687,
+                "text": "7:1"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    176.0,
+                    2099.0,
+                    287.0,
+                    2099.0,
+                    287.0,
+                    2141.0,
+                    176.0,
+                    2141.0
+                ],
+                "score": 0.947,
+                "text": "6529486.7"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    464.0,
+                    2084.0,
+                    1447.0,
+                    2084.0,
+                    1447.0,
+                    2127.0,
+                    464.0,
+                    2127.0
+                ],
+                "score": 0.469,
+                "text": "Copyngmttadenaanaensiandevi erni b"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    393.0,
+                    2123.0,
+                    411.0,
+                    2123.0,
+                    411.0,
+                    2144.0,
+                    393.0,
+                    2144.0
+                ],
+                "score": 0.255,
+                "text": "9"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    531.0,
+                    2119.0,
+                    574.0,
+                    2119.0,
+                    574.0,
+                    2153.0,
+                    531.0,
+                    2153.0
+                ],
+                "score": 0.907,
+                "text": "1gm"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    8.0,
+                    184.0,
+                    171.0,
+                    184.0,
+                    171.0,
+                    233.0,
+                    8.0,
+                    233.0
+                ],
+                "score": 0.707,
+                "text": "3-20"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    390.0,
+                    2160.0,
+                    511.0,
+                    2160.0,
+                    511.0,
+                    2192.0,
+                    390.0,
+                    2192.0
+                ],
+                "score": 0.972,
+                "text": "Skala 1: 500"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    173.0,
+                    2155.0,
+                    288.0,
+                    2155.0,
+                    288.0,
+                    2191.0,
+                    173.0,
+                    2191.0
+                ],
+                "score": 0.987,
+                "text": "2019.05.09"
+            }
+        ],
+        "page_info": {
+            "page_no": 4,
+            "width": 1656,
+            "height": 2339
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 2,
+                "poly": [
+                    1266,
+                    80,
+                    1475,
+                    80,
+                    1475,
+                    149,
+                    1266,
+                    149
+                ],
+                "score": 0.939
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    134,
+                    1990,
+                    1497,
+                    1990,
+                    1497,
+                    2240,
+                    134,
+                    2240
+                ],
+                "score": 0.85
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    148,
+                    120,
+                    421,
+                    120,
+                    421,
+                    147,
+                    148,
+                    147
+                ],
+                "score": 0.541
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    141,
+                    1768,
+                    1485,
+                    1768,
+                    1485,
+                    1852,
+                    141,
+                    1852
+                ],
+                "score": 0.428
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    141,
+                    148,
+                    1501,
+                    148,
+                    1501,
+                    1771,
+                    141,
+                    1771
+                ],
+                "score": 0.362
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    136,
+                    1964,
+                    1130,
+                    1964,
+                    1130,
+                    1990,
+                    136,
+                    1990
+                ],
+                "score": 0.224
+            },
+            {
+                "category_id": 6,
+                "poly": [
+                    148,
+                    120,
+                    421,
+                    120,
+                    421,
+                    147,
+                    148,
+                    147
+                ],
+                "score": 0.183
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    11,
+                    44,
+                    30,
+                    44,
+                    30,
+                    61,
+                    11,
+                    61
+                ],
+                "score": 0.164
+            },
+            {
+                "category_id": 5,
+                "poly": [
+                    134,
+                    1990,
+                    1497,
+                    1990,
+                    1497,
+                    2240,
+                    134,
+                    2240
+                ],
+                "score": 0.095,
+                "html": "<table><tr><td colspan=\"2\">Fastighetsǎgare (fodelsedatum/org.nr)</td><td rowspan=\"2\">Apd andel</td><td rowspan=\"2\">Ersǎttning</td><td rowspan=\"2\">Fastighetsagarens godkǎnnande Uaderskrift/Datum:</td></tr><tr><td>Gunilla Hollander, 19450704</td><td>1</td></tr><tr><td rowspan=\"2\">Banknamn EB</td><td rowspan=\"2\">Cleoringnf</td><td colspan=\"2\">1395,00kr</td><td>ln ltan 2090704 ntonummer, Pg/Bg, iBAN &amp; SWiFT*:</td></tr><tr><td colspan=\"2\">5302</td><td>00049</td></tr><tr><td>Referens:</td><td colspan=\"3\">Telefonaymmer: 010 5565539</td><td>gunilla.hollancleragmail.on E-post:</td></tr></table>"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1353.0,
+                    88.0,
+                    1477.0,
+                    88.0,
+                    1477.0,
+                    125.0,
+                    1353.0,
+                    125.0
+                ],
+                "score": 0.996,
+                "text": "ENERGI"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1353.0,
+                    118.0,
+                    1476.0,
+                    118.0,
+                    1476.0,
+                    146.0,
+                    1353.0,
+                    146.0
+                ],
+                "score": 0.988,
+                "text": "FORETAGEN"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    133.0,
+                    1982.0,
+                    454.0,
+                    1982.0,
+                    454.0,
+                    2017.0,
+                    133.0,
+                    2017.0
+                ],
+                "score": 0.88,
+                "text": "Fastighetsgare (fodelsedatum/org.nr)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    590.0,
+                    1984.0,
+                    832.0,
+                    1984.0,
+                    832.0,
+                    2023.0,
+                    590.0,
+                    2023.0
+                ],
+                "score": 0.769,
+                "text": "Apd andelErsitning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    860.0,
+                    1993.0,
+                    1140.0,
+                    1993.0,
+                    1140.0,
+                    2018.0,
+                    860.0,
+                    2018.0
+                ],
+                "score": 0.922,
+                "text": "Fastighetsagarens godkonnande"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    137.0,
+                    2026.0,
+                    415.0,
+                    2026.0,
+                    415.0,
+                    2062.0,
+                    137.0,
+                    2062.0
+                ],
+                "score": 0.927,
+                "text": "Gunilla Hollǎnder, 19450704"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    591.0,
+                    2042.0,
+                    611.0,
+                    2042.0,
+                    611.0,
+                    2062.0,
+                    591.0,
+                    2062.0
+                ],
+                "score": 0.996,
+                "text": "1"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    755.0,
+                    2015.0,
+                    1451.0,
+                    2015.0,
+                    1451.0,
+                    2103.0,
+                    755.0,
+                    2103.0
+                ],
+                "score": 0.58,
+                "text": "135t704"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    576.0,
+                    2079.0,
+                    790.0,
+                    2079.0,
+                    790.0,
+                    2160.0,
+                    576.0,
+                    2160.0
+                ],
+                "score": 0.294,
+                "text": "C5"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    866.0,
+                    2081.0,
+                    1163.0,
+                    2081.0,
+                    1163.0,
+                    2156.0,
+                    866.0,
+                    2156.0
+                ],
+                "score": 0.343,
+                "text": "nome g "
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    133.0,
+                    2145.0,
+                    220.0,
+                    2145.0,
+                    220.0,
+                    2181.0,
+                    133.0,
+                    2181.0
+                ],
+                "score": 0.98,
+                "text": "Referens:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    408.0,
+                    2147.0,
+                    793.0,
+                    2147.0,
+                    793.0,
+                    2229.0,
+                    408.0,
+                    2229.0
+                ],
+                "score": 0.675,
+                "text": "1556539"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    859.0,
+                    2154.0,
+                    1502.0,
+                    2154.0,
+                    1502.0,
+                    2242.0,
+                    859.0,
+                    2242.0
+                ],
+                "score": 0.853,
+                "text": "gunilla.hollancleragmailon"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    117.75,
+                    2062.0,
+                    327.75,
+                    2062.0,
+                    327.75,
+                    2167.0,
+                    117.75,
+                    2167.0
+                ],
+                "score": 0.654,
+                "text": "EB"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    147.0,
+                    114.0,
+                    426.0,
+                    114.0,
+                    426.0,
+                    154.0,
+                    147.0,
+                    154.0
+                ],
+                "score": 0.959,
+                "text": "VARDERINGSPROTOKOLL"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    164.0,
+                    154.0,
+                    684.0,
+                    154.0,
+                    684.0,
+                    182.0,
+                    164.0,
+                    182.0
+                ],
+                "score": 0.906,
+                "text": "FASTIGHET / SAMFALLIGHET SaMt PROJEKTINFORMATION"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1257.0,
+                    150.0,
+                    1505.0,
+                    150.0,
+                    1505.0,
+                    190.0,
+                    1257.0,
+                    190.0
+                ],
+                "score": 0.959,
+                "text": "Version 2019 (2018.12.20)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    218.0,
+                    177.0,
+                    427.0,
+                    177.0,
+                    427.0,
+                    219.0,
+                    218.0,
+                    219.0
+                ],
+                "score": 0.983,
+                "text": "Fastighetsbeteckning:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    434.0,
+                    184.0,
+                    602.0,
+                    184.0,
+                    602.0,
+                    213.0,
+                    434.0,
+                    213.0
+                ],
+                "score": 0.994,
+                "text": "Askersundsby 1:5"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1018.0,
+                    182.0,
+                    1179.0,
+                    182.0,
+                    1179.0,
+                    216.0,
+                    1018.0,
+                    216.0
+                ],
+                "score": 0.987,
+                "text": "Projektnummer:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1188.0,
+                    184.0,
+                    1270.0,
+                    184.0,
+                    1270.0,
+                    215.0,
+                    1188.0,
+                    215.0
+                ],
+                "score": 0.997,
+                "text": "268759"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    325.0,
+                    207.0,
+                    427.0,
+                    207.0,
+                    427.0,
+                    243.0,
+                    325.0,
+                    243.0
+                ],
+                "score": 0.98,
+                "text": "Kommun:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    432.0,
+                    207.0,
+                    544.0,
+                    207.0,
+                    544.0,
+                    243.0,
+                    432.0,
+                    243.0
+                ],
+                "score": 0.99,
+                "text": "Askersund"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1084.0,
+                    201.0,
+                    1179.0,
+                    201.0,
+                    1179.0,
+                    249.0,
+                    1084.0,
+                    249.0
+                ],
+                "score": 0.862,
+                "text": "Ledning:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    239.0,
+                    233.0,
+                    427.0,
+                    233.0,
+                    427.0,
+                    272.0,
+                    239.0,
+                    272.0
+                ],
+                "score": 0.964,
+                "text": "Fastighetsnummer:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    434.0,
+                    236.0,
+                    463.0,
+                    236.0,
+                    463.0,
+                    269.0,
+                    434.0,
+                    269.0
+                ],
+                "score": 0.991,
+                "text": "6"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1000.0,
+                    230.0,
+                    1179.0,
+                    230.0,
+                    1179.0,
+                    274.0,
+                    1000.0,
+                    274.0
+                ],
+                "score": 0.965,
+                "text": "Koncessionslopnr"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    193.0,
+                    263.0,
+                    425.0,
+                    263.0,
+                    425.0,
+                    297.0,
+                    193.0,
+                    297.0
+                ],
+                "score": 0.988,
+                "text": "Kontaktperson & adress:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    434.0,
+                    265.0,
+                    784.0,
+                    265.0,
+                    784.0,
+                    299.0,
+                    434.0,
+                    299.0
+                ],
+                "score": 0.941,
+                "text": "Gunil Hollander, Askersyndsby Vastra"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    985.0,
+                    261.0,
+                    1179.0,
+                    261.0,
+                    1179.0,
+                    301.0,
+                    985.0,
+                    301.0
+                ],
+                "score": 0.972,
+                "text": "Varderingstidpunkt:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1188.0,
+                    263.0,
+                    1303.0,
+                    263.0,
+                    1303.0,
+                    299.0,
+                    1188.0,
+                    299.0
+                ],
+                "score": 0.999,
+                "text": "2019-05-09"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    434.0,
+                    292.0,
+                    753.0,
+                    292.0,
+                    753.0,
+                    326.0,
+                    434.0,
+                    326.0
+                ],
+                "score": 0.958,
+                "text": "Gardsjōtorp 409, 696 91 Askersund"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    933.0,
+                    284.0,
+                    1181.0,
+                    284.0,
+                    1181.0,
+                    328.0,
+                    933.0,
+                    328.0
+                ],
+                "score": 0.952,
+                "text": "Varderingsman & foretag:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1186.0,
+                    288.0,
+                    1463.0,
+                    288.0,
+                    1463.0,
+                    328.0,
+                    1186.0,
+                    328.0
+                ],
+                "score": 0.945,
+                "text": "Magnus Bengtsson, Enicon AB"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    155.0,
+                    319.0,
+                    1038.0,
+                    319.0,
+                    1038.0,
+                    358.0,
+                    155.0,
+                    358.0
+                ],
+                "score": 0.891,
+                "text": "1. SCHABLONERSATTNING FOR MARKLEONINGIAKER, BETE, IMPEDIMENT (E] SkOgSImpedIment)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    144.0,
+                    353.0,
+                    421.0,
+                    353.0,
+                    421.0,
+                    387.0,
+                    144.0,
+                    387.0
+                ],
+                "score": 0.913,
+                "text": "Beskrivning (typ, placering,etc)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1062.0,
+                    353.0,
+                    1137.0,
+                    353.0,
+                    1137.0,
+                    391.0,
+                    1062.0,
+                    391.0
+                ],
+                "score": 0.781,
+                "text": "Lāngd"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1210.0,
+                    353.0,
+                    1285.0,
+                    353.0,
+                    1285.0,
+                    391.0,
+                    1210.0,
+                    391.0
+                ],
+                "score": 0.989,
+                "text": "Bredd"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1353.0,
+                    352.0,
+                    1468.0,
+                    352.0,
+                    1468.0,
+                    393.0,
+                    1353.0,
+                    393.0
+                ],
+                "score": 0.881,
+                "text": "Ersittning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    160.0,
+                    378.0,
+                    558.0,
+                    378.0,
+                    558.0,
+                    412.0,
+                    160.0,
+                    412.0
+                ],
+                "score": 0.937,
+                "text": "Jordkabel 24kV fran A-B enligt bifogad karta"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1067.0,
+                    380.0,
+                    1135.0,
+                    380.0,
+                    1135.0,
+                    419.0,
+                    1067.0,
+                    419.0
+                ],
+                "score": 0.872,
+                "text": "30m"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1221.0,
+                    382.0,
+                    1279.0,
+                    382.0,
+                    1279.0,
+                    421.0,
+                    1221.0,
+                    421.0
+                ],
+                "score": 0.98,
+                "text": "1m"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1429.0,
+                    378.0,
+                    1509.0,
+                    378.0,
+                    1509.0,
+                    421.0,
+                    1429.0,
+                    421.0
+                ],
+                "score": 0.523,
+                "text": "120 r"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1232.0,
+                    489.0,
+                    1325.0,
+                    489.0,
+                    1325.0,
+                    525.0,
+                    1232.0,
+                    525.0
+                ],
+                "score": 0.872,
+                "text": "Summa:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1421.0,
+                    486.0,
+                    1504.0,
+                    486.0,
+                    1504.0,
+                    531.0,
+                    1421.0,
+                    531.0
+                ],
+                "score": 0.852,
+                "text": "120 kr"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    155.0,
+                    514.0,
+                    931.0,
+                    514.0,
+                    931.0,
+                    556.0,
+                    155.0,
+                    556.0
+                ],
+                "score": 0.902,
+                "text": "2. SCHABLONERSATTNING FOR NATSTATIONER OCH KABELSKAP (Ej inOm detalplan)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    140.0,
+                    545.0,
+                    460.0,
+                    545.0,
+                    460.0,
+                    586.0,
+                    140.0,
+                    586.0
+                ],
+                "score": 0.702,
+                "text": "Beskrivning(typ，placering,ytet)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    874.0,
+                    548.0,
+                    1044.0,
+                    548.0,
+                    1044.0,
+                    586.0,
+                    874.0,
+                    586.0
+                ],
+                "score": 0.915,
+                "text": "Typ och markslag"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1212.0,
+                    552.0,
+                    1281.0,
+                    552.0,
+                    1281.0,
+                    588.0,
+                    1212.0,
+                    588.0
+                ],
+                "score": 0.934,
+                "text": "Antal"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1355.0,
+                    550.0,
+                    1466.0,
+                    550.0,
+                    1466.0,
+                    592.0,
+                    1355.0,
+                    592.0
+                ],
+                "score": 0.833,
+                "text": "Ersaittning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1231.0,
+                    683.0,
+                    1324.0,
+                    683.0,
+                    1324.0,
+                    725.0,
+                    1231.0,
+                    725.0
+                ],
+                "score": 0.955,
+                "text": "Summa:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1429.0,
+                    687.0,
+                    1504.0,
+                    687.0,
+                    1504.0,
+                    726.0,
+                    1429.0,
+                    726.0
+                ],
+                "score": 0.72,
+                "text": "-kr"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    148.0,
+                    712.0,
+                    868.0,
+                    712.0,
+                    868.0,
+                    753.0,
+                    148.0,
+                    753.0
+                ],
+                "score": 0.846,
+                "text": "3. ERSATTNiNG FOR HiNDER1AKERMARK - För ersSttingsberkning se bilaga"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    144.0,
+                    748.0,
+                    421.0,
+                    748.0,
+                    421.0,
+                    782.0,
+                    144.0,
+                    782.0
+                ],
+                "score": 0.913,
+                "text": "Beskrivning (typ, placering, etc)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1353.0,
+                    749.0,
+                    1464.0,
+                    749.0,
+                    1464.0,
+                    789.0,
+                    1353.0,
+                    789.0
+                ],
+                "score": 0.921,
+                "text": "Ersittning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1230.0,
+                    830.0,
+                    1321.0,
+                    830.0,
+                    1321.0,
+                    866.0,
+                    1230.0,
+                    866.0
+                ],
+                "score": 0.861,
+                "text": "Summa:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1431.0,
+                    832.0,
+                    1500.0,
+                    832.0,
+                    1500.0,
+                    868.0,
+                    1431.0,
+                    868.0
+                ],
+                "score": 0.743,
+                "text": "-kr"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    155.0,
+                    855.0,
+                    896.0,
+                    855.0,
+                    896.0,
+                    895.0,
+                    155.0,
+                    895.0
+                ],
+                "score": 0.831,
+                "text": "4 a. ERSATTNiNG FOR LEDNING I SKOGSMARK - F&r ersittningsberakning se bilaga"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    142.0,
+                    886.0,
+                    422.0,
+                    886.0,
+                    422.0,
+                    929.0,
+                    142.0,
+                    929.0
+                ],
+                "score": 0.705,
+                "text": "Beskrivning,aceg"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1353.0,
+                    891.0,
+                    1462.0,
+                    891.0,
+                    1462.0,
+                    933.0,
+                    1353.0,
+                    933.0
+                ],
+                "score": 0.851,
+                "text": "Ersaitning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1230.0,
+                    976.0,
+                    1321.0,
+                    976.0,
+                    1321.0,
+                    1012.0,
+                    1230.0,
+                    1012.0
+                ],
+                "score": 0.895,
+                "text": "Summa:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1429.0,
+                    977.0,
+                    1500.0,
+                    977.0,
+                    1500.0,
+                    1012.0,
+                    1429.0,
+                    1012.0
+                ],
+                "score": 0.826,
+                "text": " kr"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    157.0,
+                    999.0,
+                    777.0,
+                    999.0,
+                    777.0,
+                    1039.0,
+                    157.0,
+                    1039.0
+                ],
+                "score": 0.848,
+                "text": "4 b. ROTNETTO (Erstts separat) For erstnlngsberkning se bilaga"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    140.0,
+                    1031.0,
+                    1142.0,
+                    1031.0,
+                    1142.0,
+                    1071.0,
+                    140.0,
+                    1071.0
+                ],
+                "score": 0.772,
+                "text": "Anvinds forberkningapaslag(25%enlixprpriationslagen mt 20%srsid ertning orverenskommelse)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    336.0,
+                    1058.0,
+                    595.0,
+                    1058.0,
+                    595.0,
+                    1096.0,
+                    336.0,
+                    1096.0
+                ],
+                "score": 0.932,
+                "text": "Totalt rotnetto enligt biaga"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1130.0,
+                    1060.0,
+                    1493.0,
+                    1060.0,
+                    1493.0,
+                    1103.0,
+                    1130.0,
+                    1103.0
+                ],
+                "score": 0.876,
+                "text": "Ersittning for rotnetto reglerasi bllag"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    151.0,
+                    1085.0,
+                    839.0,
+                    1085.0,
+                    839.0,
+                    1130.0,
+                    151.0,
+                    1130.0
+                ],
+                "score": 0.778,
+                "text": "5. ERSATNING FOROVRIGT INTRANG-Frersitningsberkning se blaga"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    139.0,
+                    1117.0,
+                    423.0,
+                    1117.0,
+                    423.0,
+                    1161.0,
+                    139.0,
+                    1161.0
+                ],
+                "score": 0.682,
+                "text": "Beskrivningtyplacerigt)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1351.0,
+                    1126.0,
+                    1462.0,
+                    1126.0,
+                    1462.0,
+                    1166.0,
+                    1351.0,
+                    1166.0
+                ],
+                "score": 0.919,
+                "text": "Ersüttning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1227.0,
+                    1205.0,
+                    1322.0,
+                    1205.0,
+                    1322.0,
+                    1247.0,
+                    1227.0,
+                    1247.0
+                ],
+                "score": 0.92,
+                "text": "Summa:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1421.0,
+                    1205.0,
+                    1502.0,
+                    1205.0,
+                    1502.0,
+                    1250.0,
+                    1421.0,
+                    1250.0
+                ],
+                "score": 0.661,
+                "text": ".kr"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    153.0,
+                    1230.0,
+                    896.0,
+                    1230.0,
+                    896.0,
+                    1272.0,
+                    153.0,
+                    1272.0
+                ],
+                "score": 0.936,
+                "text": "6 a. ERSATTNING FOR LEDNING ISKOGSMARK ENLIGT STORSKOGSBRUKSAVTALET"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    139.0,
+                    1263.0,
+                    420.0,
+                    1263.0,
+                    420.0,
+                    1306.0,
+                    139.0,
+                    1306.0
+                ],
+                "score": 0.703,
+                "text": "Beskrivning(typ,placeringt"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    618.0,
+                    1270.0,
+                    710.0,
+                    1270.0,
+                    710.0,
+                    1301.0,
+                    618.0,
+                    1301.0
+                ],
+                "score": 0.944,
+                "text": "Omrade:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1058.0,
+                    1270.0,
+                    1131.0,
+                    1270.0,
+                    1131.0,
+                    1308.0,
+                    1058.0,
+                    1308.0
+                ],
+                "score": 0.823,
+                "text": "Lǎngd"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1202.0,
+                    1268.0,
+                    1283.0,
+                    1268.0,
+                    1283.0,
+                    1311.0,
+                    1202.0,
+                    1311.0
+                ],
+                "score": 0.979,
+                "text": "Bredd"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1349.0,
+                    1270.0,
+                    1462.0,
+                    1270.0,
+                    1462.0,
+                    1310.0,
+                    1349.0,
+                    1310.0
+                ],
+                "score": 0.946,
+                "text": "Ersittning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1228.0,
+                    1406.0,
+                    1319.0,
+                    1406.0,
+                    1319.0,
+                    1442.0,
+                    1228.0,
+                    1442.0
+                ],
+                "score": 0.878,
+                "text": "Summa:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1429.0,
+                    1417.0,
+                    1452.0,
+                    1417.0,
+                    1452.0,
+                    1437.0,
+                    1429.0,
+                    1437.0
+                ],
+                "score": 0.995,
+                "text": "-"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1454.0,
+                    1408.0,
+                    1496.0,
+                    1408.0,
+                    1496.0,
+                    1444.0,
+                    1454.0,
+                    1444.0
+                ],
+                "score": 0.97,
+                "text": "kr"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    153.0,
+                    1430.0,
+                    991.0,
+                    1430.0,
+                    991.0,
+                    1469.0,
+                    153.0,
+                    1469.0
+                ],
+                "score": 0.948,
+                "text": "6 b. ERSATTNING FOR INTRANG INOM VAGANLAGGNING ENLIGT STORSKOGSBRUKSAVTALET"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    137.0,
+                    1462.0,
+                    422.0,
+                    1462.0,
+                    422.0,
+                    1505.0,
+                    137.0,
+                    1505.0
+                ],
+                "score": 0.769,
+                "text": "Beskrivning(yp,placeringet"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1055.0,
+                    1467.0,
+                    1135.0,
+                    1467.0,
+                    1135.0,
+                    1511.0,
+                    1055.0,
+                    1511.0
+                ],
+                "score": 0.824,
+                "text": "Lāngd"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1212.0,
+                    1469.0,
+                    1270.0,
+                    1469.0,
+                    1270.0,
+                    1509.0,
+                    1212.0,
+                    1509.0
+                ],
+                "score": 0.921,
+                "text": "Zon"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1350.0,
+                    1469.0,
+                    1460.0,
+                    1469.0,
+                    1460.0,
+                    1511.0,
+                    1350.0,
+                    1511.0
+                ],
+                "score": 0.908,
+                "text": "Ersattning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1228.0,
+                    1553.0,
+                    1320.0,
+                    1553.0,
+                    1320.0,
+                    1595.0,
+                    1228.0,
+                    1595.0
+                ],
+                "score": 0.938,
+                "text": "Summa:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1427.0,
+                    1559.0,
+                    1496.0,
+                    1559.0,
+                    1496.0,
+                    1595.0,
+                    1427.0,
+                    1595.0
+                ],
+                "score": 0.667,
+                "text": ".kr"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    150.0,
+                    1578.0,
+                    400.0,
+                    1578.0,
+                    400.0,
+                    1622.0,
+                    150.0,
+                    1622.0
+                ],
+                "score": 0.941,
+                "text": "7. SAMMANSTALLNING"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1018.0,
+                    1622.0,
+                    1321.0,
+                    1622.0,
+                    1321.0,
+                    1656.0,
+                    1018.0,
+                    1656.0
+                ],
+                "score": 0.898,
+                "text": "Tiligg enligt expropriations agen."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1427.0,
+                    1622.0,
+                    1498.0,
+                    1622.0,
+                    1498.0,
+                    1663.0,
+                    1427.0,
+                    1663.0
+                ],
+                "score": 0.818,
+                "text": "30kr"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    949.0,
+                    1645.0,
+                    1323.0,
+                    1645.0,
+                    1323.0,
+                    1686.0,
+                    949.0,
+                    1686.0
+                ],
+                "score": 0.887,
+                "text": "Sirskild ersitningfroverenskommelse"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1423.0,
+                    1643.0,
+                    1500.0,
+                    1643.0,
+                    1500.0,
+                    1695.0,
+                    1423.0,
+                    1695.0
+                ],
+                "score": 0.736,
+                "text": "30kr"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1064.0,
+                    1673.0,
+                    1321.0,
+                    1673.0,
+                    1321.0,
+                    1719.0,
+                    1064.0,
+                    1719.0
+                ],
+                "score": 0.835,
+                "text": "Tilag for minimiersattning:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1401.0,
+                    1677.0,
+                    1498.0,
+                    1677.0,
+                    1498.0,
+                    1720.0,
+                    1401.0,
+                    1720.0
+                ],
+                "score": 0.915,
+                "text": "1215 kr"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1109.0,
+                    1713.0,
+                    1321.0,
+                    1713.0,
+                    1321.0,
+                    1755.0,
+                    1109.0,
+                    1755.0
+                ],
+                "score": 0.954,
+                "text": "TOTAL ERSATTNING"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1390.0,
+                    1712.0,
+                    1498.0,
+                    1712.0,
+                    1498.0,
+                    1760.0,
+                    1390.0,
+                    1760.0
+                ],
+                "score": 0.884,
+                "text": "1395 kr"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    134.0,
+                    1959.0,
+                    1132.0,
+                    1959.0,
+                    1132.0,
+                    1995.0,
+                    134.0,
+                    1995.0
+                ],
+                "score": 0.805,
+                "text": "Ovanstende godkinns och ersttning sitts inp foliande konto (ovriga delagare redovisas pd foliande sida/sidor)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    147.0,
+                    114.0,
+                    426.0,
+                    114.0,
+                    426.0,
+                    154.0,
+                    147.0,
+                    154.0
+                ],
+                "score": 0.959,
+                "text": "VARDERINGSPROTOKOLL"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    138.0,
+                    1761.0,
+                    1409.0,
+                    1761.0,
+                    1409.0,
+                    1803.0,
+                    138.0,
+                    1803.0
+                ],
+                "score": 0.389,
+                "text": "s"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    138.0,
+                    1819.0,
+                    745.0,
+                    1819.0,
+                    745.0,
+                    1853.0,
+                    138.0,
+                    1853.0
+                ],
+                "score": 0.841,
+                "text": "ronta enligt 6  rantelagen Tilfllig skador regleras vid skadetilfallet."
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    138.0,
+                    1795.0,
+                    1490.0,
+                    1795.0,
+                    1490.0,
+                    1826.5,
+                    138.0,
+                    1826.5
+                ],
+                "score": 0.337,
+                "text": "s"
+            }
+        ],
+        "page_info": {
+            "page_no": 5,
+            "width": 1656,
+            "height": 2339
+        }
+    }
+]

@@ -1,0 +1,10 @@
+mineru -p ./D-2020-00005018.pdf -o D-2020-00005018 -b pipeline
+mineru -p ./D-2020-00040677.pdf -o D-2020-00040677 -b pipeline
+mineru -p ./D-2020-00047813.pdf -o D-2020-00047813 -b pipeline
+mineru -p ./D-2020-00150874.pdf -o D-2020-00150874 -b pipeline
+mineru -p ./D-2020-00213476.pdf -o D-2020-00213476 -b pipeline
+mineru -p ./D-2020-00314079.pdf -o D-2020-00314079 -b pipeline
+mineru -p ./D-2020-00400144.pdf -o D-2020-00400144 -b pipeline
+mineru -p ./D-2020-00400146.pdf -o D-2020-00400146 -b pipeline
+mineru -p ./D-2020-00545991.pdf -o D-2020-00545991 -b pipeline
+mineru -p ./D-2022-00018136.pdf -o D-2022-00018136 -b pipeline
