@@ -41,7 +41,12 @@ def write_data(filenames, output):
                 page_idx = block.get("page_idx", "")
 
                 content = table_body if entry_type == "table" else text
+
+                # remove ", $, \n
                 content = re.sub('"', "", content)
+                content = re.sub("\$", "", content)
+                content = re.sub("\n", "", content)
+
                 content = content.strip()
 
                 file_out.write(
